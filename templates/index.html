@@ -2,6 +2,7 @@
 
 {% block head%}
 <h1>Clasificador de Empleados de Riesgo</h1>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 
 
 {% endblock %}
@@ -9,103 +10,217 @@
 
 {% block body%}
 <div class="content">
-    
+    <div class="container" id="testbox"> 
+        <form method="POST", action="{{url_for('home')}}">
 
-    <form method="POST", action="{{url_for('home')}}">
+            <label for="name"> Name </label>
+            <input type="text" name="name" id = "name">
+            <br>
 
-        <label for="identification_type">Identification Type </label>
-        <input type="text" name="identification_type" id = "identification_type">
-        <br>
+            <label for="identification_type">Identification Type </label>
+            <select name="identification_type" id = "identification_type">
+                <option value=""></option>
+                <option value="0">Resident</option>
+                <option value="1">PPT</option>
+                <option value="2">CE</option>
+                <option value="3">PEP</option>
+                <option value="4">TI</option>
+                <option value="5">CC</option>
+            </select>
+            <br>
 
-        <label for="site">Site </label>
-        <input type="text" name="site" id = "site">
-        <br>
+            <label for="site">Site </label>
+            <select name="site" id = "site">
+                <option value=""></option>
+                <option value="0">Pereira</option>
+                <option value="1">Bucaramanga</option>
+                <option value="3">Cali</option>
+                <option value="2">Bogota</option>
+            </select>
+            <br>
 
-        <label for="gender">Gender </label>
-        <input type="number" name="gender" id = "gender">
-        <br>
+            <label for="gender">Gender </label>
+            <select name="gender" id = "gender">
+                <option value=""></option>
+                <option value="0">Female</option>
+                <option value="1">Male</option>
+            </select>
+            <br>
 
-        <label for="age">Age </label>
-        <input type="number" name="age" id = "age">
-        <br>
+            <label for="age">Age </label>
+            <input type="number" name="age" id = "age">
+            <br>
 
-        <label for="marital_status">Marital Status </label>
-        <input type="text" name="marital_status" id = "marital_status">
-        <br>
+            <label for="marital_status">Marital Status </label>
+            <select name="marital_status" id = "marital_status">
+                <option value=""></option>
+                <option value="2">Single Mother</option>
+                <option value="1">Single Father</option>
+                <option value="3">Common Law Marriage</option>
+                <option value="4">Maried</option>
+                <option value="5">Single</option>
+                <option value="0">Liberal Union</option>
+            </select>
+            <br>
 
-        <label for="number_of_children">Number of Children </label>
-        <input type="text" name="number_of_children" id = "number_of_children">
-        <br>
+            <label for="number_of_children">Number of Children </label>
+            <input type="number" name="number_of_children" id = "number_of_children">
+            <br>
 
-        <label for="blood_type">Blood Type</label>
-        <input type="text" name="blood_type" id = "blood_type">
-        <br>
+            <label for="blood_type">Blood Type</label>
+            <select name="blood_type" id = "blood_type">
+                <option value=""></option>
+                <option value="3">O</option>
+                <option value="2">A</option>
+                <option value="1">B</option>
+                <option value="0">AB</option>
+            </select>
+            <br>
 
-        <label for="rh_blood">RH</label>
-        <input type="text" name="rh_blood" id = "rh_blood">
-        <br>
+            <label for="rh_blood">RH</label>
+            <select name="rh_blood" id = "rh_blood">
+                <option value=""></option>
+                <option value="1">+</option>
+                <option value="0">-</option>
+            </select>
+            <br>
 
-        <label for="department">Department</label>
-        <input type="text" name="department" id = "department">
-        <br>
+            <label for="department">Department</label>
+            <select name="department" id = "department">
+                <option value=""></option>
+                <option value="11">Bogota</option>
+                <option value="76">Valle del Cauca</option>
+                <option value="68">Santander</option>
+                <option value="66">Risaralda</option>
+                <option value="25">Cundinamarca</option>
+                <option value="63">Quindio</option>
+                <option value="17">Caldas</option>
+                <option value="15">Boyaca</option>
+                <option value="5">Antioquia</option>
+                <option value="19">Cauca</option>
+            </select>
+            <br>
 
-        <label for="city">City</label>
-        <input type="text" name="city" id = "city">
-        <br>
+            <label for="city">City</label>
+            <select name="city" id = "city">>
+                <option value=""></option>
+                <option value="1">Pereira</option>
+                <option value="2">Bucaramanga</option>
+                <option value="0">Cali</option>
+                <option value="4">Bogota</option>
+                <option value="3">Otros</option>
+            </select>
+            <br>
 
-        <label for="stratum">Stratum</label>
-        <input type="number" name="stratum" id = "stratum">
-        <br>
+            <label for="stratum">Stratum</label>
+            <select name="stratum" id = "stratum">
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+            </select>
+            <br>
 
-        <label for="depend_people">People Dependent on Person</label>
-        <input type="number" name="depend_people" id = "depend_people">
-        <br>
+            <label for="depend_people">People Dependent on Person</label>
+            <input type="number" name="depend_people" id = "depend_people">
+            <br>
 
-        <label for="hear_about_us">Hear About Us</label>
-        <input type="text" name="hear_about_us" id = "hear_about_us">
-        <br>
+            <label for="hear_about_us">Hear About Us</label>
+            <select name="hear_about_us" id = "hear_about_us">
+                <option value=""></option>
+                <option value="4">Social Media</option>
+                <option value="3">Referals</option>
+                <option value="0">Fairs</option>
+                <option value="2">Online Sites</option>
+                <option value="1">Other</option>
+            </select>
+            <br>
 
-        <label for="have_acquaintances">Has Acquatiences</label>
-        <input type="number" name="have_acquaintances" id = "have_acquaintances">
-        <br>
+            <label for="have_acquaintances">Has Acquatiences in Similar Companies</label>
+            <select name="have_acquaintances" id = "have_acquaintances">
+                <option value=""></option>
+                <option value="1"> Yes</option>
+                <option value="0">No</option>
+            </select>
+            <br>
 
-        <label for="have_family_contact_center">Have Family Contact Center</label>
-        <input type="number" name="have_family_contact_center" id = "have_family_contact_center">
-        <br>
+            <label for="have_family_contact_center">Have Family Contact Center</label>
+            <select name="have_family_contact_center" id = "have_family_contact_center">
+                <option value=""></option>
+                <option value="1"> Yes</option>
+                <option value="0">No</option>
+            </select>
+            <br>
 
-        <label for="referral_external">External Referal</label>
-        <input type="number" name="referral_external" id = "referral_external">
-        <br>
+            <label for="referral_external">External Referal</label>
+            <select name="referral_external" id = "referral_external">
+                <option value=""></option>
+                <option value="1"> Yes</option>
+                <option value="0">No</option>
+            </select>
+            <br>
 
-        <label for="have_transportation">Have Transportation</label>
-        <input type="number" name="have_transportation" id = "have_transportation">
-        <br>
+            <label for="have_transportation">Has Transportation</label>
+            <select name="have_transportation" id = "have_transportation">
+                <option value=""></option>
+                <option value="1"> Yes</option>
+                <option value="0">No</option>
+            </select>
+            <br>
 
-        <label for="education_level">Education Level</label>
-        <input type="number" name="education_level" id = "education_level">
-        <br>
+            <label for="education_level">Education Level</label>
+            <select name="education_level" id = "education_level">
+                <option value=""></option>
+                <option value="4"> Bachiller</option>
+                <option value="3">Universitario</option>
+                <option value="1">Profesional</option>
+                <option value="2">Tecnico</option>
+                <option value="0">Master</option>
+            </select>
+            <br>
 
-        <label for="learn_english">Learn English</label>
-        <input type="number" name="learn_english" id = "learn_english">
-        <br>
+            <label for="learn_english">Means to learn english</label>
+            <select name="learn_english" id = "learn_english">
+                <option value=""></option>
+                <option value="3"> Self Taught</option>
+                <option value="1">University</option>
+                <option value="0">School</option>
+                <option value="2">English Institute</option>
+                <option value="4">Other</option>
+            </select>
+            <br>
 
-        <label for="worked_before_call_center">Worked Before Call Center</label>
-        <input type="number" name="worked_before_call_center" id = "worked_before_call_center">
-        <br>
+            <label for="worked_before_call_center">Worked Before Call Center</label>
+            <select name="worked_before_call_center" id = "worked_before_call_center">
+                <option value=""></option>
+                <option value="1"> Yes</option>
+                <option value="0">No </option>
+            </select>
+            <br>
 
-        <label for="has_left">Has Left</label>
-        <input type="number" name="has_left" id = "has_left">
-        <br>
+            <label for="has_left">Has Left</label>
+            <select name="has_left" id = "has_left">
+                <option value=""></option>
+                <option value="1"> Yes</option>
+                <option value="0">No </option>
+            </select>
+            <br>
 
-        <label for="number_of_returns">Number of Returns</label>
-        <input type="number" name="number_of_returns" id = "number_of_returns">
-        <br>
+            <label for="number_of_returns">Number of Returns</label>
+            <input type="number" name="number_of_returns" id = "number_of_returns">
+            <br>
 
 
-        <input type="submit", value="predict"> 
+            <div class="btn-block">
+            <button type="submit",  value="predict"> Predict </button>
+            </div>
 
 
-    </form>
+        </form>
+    </div>
 </div>
 
 

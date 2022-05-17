@@ -1,4 +1,82 @@
 body{
     margin: 0;
     font-family: sans-serif;
+    background-color: lightblue;
 }
+#testbox {
+    border-radius: 3%;   
+    overflow: hidden;
+    perspective: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    padding: 5px;
+    margin: 20px;
+}
+
+
+form {
+    width: 100%;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px #ccc; 
+}
+
+
+input {
+    width: calc(100% - 10px);
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+input:hover, textarea:hover, select:hover {
+    outline: none;
+    border: 1px solid #095484;
+    background: #e6eef7;
+}
+
+select {
+    padding: 7px 0;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    background: transparent;
+    }
+    select, table {
+    width: 100%;
+    }
+    option {
+    background: #fff;
+    }
+
+
+.btn-block {
+        margin-top: 20px;
+        text-align: center;
+}
+
+
+button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px; 
+    background-color: #095484;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    }
+
+
+#container_rest{
+    border-radius: 3%;  
+    background-color: #fff;
+    overflow: hidden;
+    perspective: 1px;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    padding: 5px;
+    margin: 20px;
+}    

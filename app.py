@@ -20,6 +20,11 @@ def index():
 
 @app.route('/predict', methods=['POST'])
 def home():
+
+    #Nombre
+    name = request.form['name']
+
+    #Datos para el arreglo
     id= request.form['identification_type']
     site=request.form['site']
     gender=request.form['gender']
@@ -52,7 +57,7 @@ def home():
     pred = model.predict(employee)
 
     #retorna
-    return render_template('after.html',data=pred)
+    return render_template('after.html',data=pred, namep = name)
 
 
 if __name__ == "__main__":

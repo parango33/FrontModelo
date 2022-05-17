@@ -1,23 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends 'base.html' %}
 
+{% block head%}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+{% endblock %}
+
+{% block body%}
 <body>
- <h1>
-        Resultados del modelo
-    </h1>
 
-{%if data ==0%}
-<h1>The employee is NON risk</h1>
 
-{%else%}
-<h1> The employee is HIGH risk</h1>
+ <div class="container" id="container_rest">
+     <div class="row"> 
+    <h1>
+        Results of the Model for Employee: {{namep}} 
+     </h1>
+     
+    </div>
+     <div class="row">
+        {%if data ==1%}
+        <h2>The employee is NON risk</h2>
+        
+        {%else%}
+        <h2> The employee is HIGH risk</h2>
+        
+        {%endif%}   
+     </div>
 
-{%endif%}    
+ 
+
+</div>
 
 <br><br>
 <a href="/"> Back</a>
 </body>
 
 
+{% endblock %}
 
 </html>
