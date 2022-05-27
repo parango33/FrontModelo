@@ -9,11 +9,11 @@ import pickle
 import ast
 
 #Importar datos
-df_test = pd.read_csv('datos_ready.csv')
+df_test = pd.read_csv('datos_ready_final.csv')
 
 #Fijar el Target para el modelo
-target = df_test.non_risk_employee
-inputs = df_test.drop('non_risk_employee', axis='columns')
+target = df_test.risky_employee
+inputs = df_test.drop('risky_employee', axis='columns')
 
 #Separar datos train y test
 x_train, x_test, y_train, y_test = train_test_split(inputs,target,test_size=0.1)

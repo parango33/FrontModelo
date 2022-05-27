@@ -1,0 +1,780 @@
+id_number,identification_type,site,gender,age,marital_status,number_of_children,blood_type,rh_blood,department,city,stratum,depend_people,hear_about_us,have_acquaintances,have_family_contact_center,referral_external,have_transportation,education_level,profession,learn_english,worked_before_call_center
+42115845,CC,pereira,Female,46,Single,1,AB,Positive,Risaralda,Pereira,5,1,Facebook,False,False,False,False,Tecnico,N/A,By Myself,False
+18614446,CC,pereira,Male,44,Married,1,A,Positive,Risaralda,Pereira,4,0,Facebook,False,False,False,False,Tecnologo,N/A,By Myself,False
+1088297740,CC,pereira,Male,30,Single,0,O,Positive,Risaralda,Pereira,5,0,Facebook,False,False,False,False,Tecnologo,N/A,By Myself,False
+1088012578,CC,pereira,Male,29,Single,1,O,Positive,Risaralda,Dosquebradas,4,0,Facebook,False,False,False,False,Tecnologo,N/A,By Myself,False
+1088348868,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,4,0,Facebook,False,False,False,False,Tecnico,N/A,By Myself,False
+10021911,CC,pereira,Male,47,Single,1,O,Positive,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+1054925495,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro colombo americano,False
+1088267865,CC,pereira,Female,33,Single,1,A,Positive,Risaralda,Pereira,2,0,Friend,False,False,False,False,Bachiller,N/A,high school,False
+1087999711,CC,pereira,Female,32,Single,1,O,Positive,Risaralda,Dosquebradas,2,0,Friend,False,False,False,False,Tecnico,N/A,I learn english at SENA,True
+1088345866,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Pereira,4,0,Friend,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088027768,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Friend,False,False,False,False,Bachiller,N/A,"Empiric learning, school",False
+1088022223,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,Eternet,False
+1088316204,CC,pereira,Female,28,Single,0,O,Positive,Risaralda,Pereira,1,0,Friend,False,False,False,False,Tecnico,N/A,"I studied english at the Centro Colombo Americano, and I studied one semester at UTP with ILEX",True
+1088294153,CC,pereira,Male,30,Single,0,B,Positive,Risaralda,Pereira,2,0,Infratech,False,False,False,False,Tecnologo,N/A,"University, Internet, Infratech",False
+1087561103,CC,pereira,Male,23,Single,1,A,Negative,Risaralda,La Virginia,2,2,Call,False,False,False,True,Bachiller,N/A,American institute,False
+1004686562,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,1,0,Friend,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088343522,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,At colombo Americano,False
+1088355436,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,3,0,Call,False,False,False,True,Bachiller,N/A,School and Infratech,False
+1088331084,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,2,0,Friend,False,False,False,False,Bachiller,N/A,In the school and the University,False
+1088326130,CC,pereira,Female,27,Single,0,AB,Positive,Risaralda,Pereira,4,0,Friend,False,False,False,True,Bachiller,N/A,Lived in usa,True
+1088297548,CC,pereira,Male,30,Single,0,O,Positive,Risaralda,Pereira,3,0,University,False,False,False,False,Estudiante universitario,N/A,Universidad Tecnológica de Pereira,False
+1010021272,CC,pereira,Female,23,Single,0,A,Positive,Risaralda,Dosquebradas,4,0,Friend,False,False,False,False,Bachiller,N/A,I learned in my school and university.,False
+1088329962,CC,pereira,Male,26,Single,0,O,Positive,Valle Del Cauca,Cartago,3,0,Other,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088335419,CC,pereira,Female,25,Married,1,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Tecnico,N/A,school/institute,False
+1094887420,CC,pereira,Female,35,Single,0,B,Positive,Quindio,Armenia,4,0,Friend,False,False,False,True,Tecnico,N/A,Colombo Americano ,False
+1088279851,CC,pereira,Male,31,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Friend,False,False,False,True,Estudiante universitario,N/A,Universidad Tecnológica de Pereira,False
+1088266397,CC,pereira,Male,33,Single,1,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,Ilex,False
+4585335,CC,pereira,Male,36,Single,0,A,Positive,Risaralda,Santa Rosa De Cabal,1,0,Google,False,False,False,False,Especialista/Master,Theology,Others,False
+1018473672,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,2,1,Banner,False,False,False,False,Estudiante universitario,N/A,High School,False
+1088317293,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Pereira,3,0,Others,False,False,False,True,Bachiller,N/A,At School In Colombia,False
+1116441968,CC,pereira,Male,29,Single,0,o,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Tecnico,N/A,By Myself,False
+1088340622,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1093226701,CC,pereira,Male,25,Single,0,A,Positive,Risaralda,Santa Rosa De Cabal,3,0,Friend,False,False,False,False,Tecnologo,N/A,Oxford Institute ,False
+1225090967,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,high school,False
+1088357117,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1088356986,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,2,0,Sena,False,False,False,False,Bachiller,N/A,By Myself,False
+1088344682,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,2,0,Infratech,False,False,False,False,Tecnico,N/A,Ilex-UTP,False
+1126567893,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,2,0,Sena,False,False,False,False,Bachiller,N/A,Infratech/ Infi Pereira,False
+1089744893,CC,pereira,Male,34,Single,1,A,Positive,Risaralda,Marsella,2,0,Family,False,False,False,True,Bachiller,N/A,By Myself,False
+6074441,PPT,pereira,Male,32,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Especialista/Master,N/A,By Myself,False
+1225093291,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,4,0,Expocamello,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1088341085,CC,pereira,Male,25,Single,0,B,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Infratech/ Infi Pereira,False
+1088033753,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Friend,False,False,False,False,Tecnologo,N/A,PC,False
+1088348030,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,True,Tecnologo,N/A,By Myself,False
+1093225826,CC,pereira,Male,26,Single,0,A,Positive,Risaralda,Santa Rosa De Cabal,3,0,Facebook,False,False,False,True,Tecnologo,N/A,In The University In Colombia,False
+1088241466,CC,pereira,Male,35,Single,0,O,Positive,Risaralda,Pereira,4,0,Other,False,False,False,False,Profesional,N/A,In The University In Colombia,True
+1093230972,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,At School In Colombia,False
+1088358134,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,3,3,Other,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1088354659,CC,pereira,Male,23,Single,0,AB,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,At School In Colombia,False
+1088313307,CC,pereira,Male,28,Single,0,O,Negative,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,By Myself,False
+1088009051,CC,pereira,Female,30,Single,0,A,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,By Myself,False
+813802,CE,pereira,Male,28,Married,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Profesional,N/A,Others,False
+1193389793,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,4,0,Flyer,False,False,False,True,Bachiller,N/A,By Myself,False
+1088340577,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Tecnico,N/A,By Myself,False
+1006971525,CC,pereira,Female,24,Single,0,B,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Out Side  Colombia  ( Please Specify),False
+1418789,PPT,pereira,Male,44,Common law marriage,3,O,Negative,Risaralda,Pereira,3,4,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+42165481,CC,pereira,Female,36,Common law marriage,0,O,Positive,Risaralda,Dosquebradas,2,0,Other,False,False,False,False,Tecnico,N/A,By Myself,False
+1127620751,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By Myself,False
+1120582979,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Apply On Line / Accedo Page,False,False,False,False,Tecnico,N/A,By Myself,False
+1088321156,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,3,0,Apply On Line / Accedo Page,False,False,False,,Estudiante universitario,N/A,Others: Universidad Tecnologica de Colombia,
+1088320991,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,3,0,Call,False,False,False,,Estudiante universitario,N/A,Others: Universidad tecnologica de Pereira,False
+1088265121,CC,pereira,Female,33,Single,1,A,Positive,Risaralda,Dosquebradas,3,1,Computrabajo,False,False,False,True,Tecnologo,N/A,Centro Colombo Americano,
+1125275545,CC,pereira,Female,21,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Family,False,False,False,,Bachiller,N/A,Centro Colombo Americano,
+1088334679,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,True,Tecnologo,N/A,By Myself,False
+1004699474,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Others: UTP,False
+1112934239,CC,pereira,Male,25,Single,0,O,Negative,Risaralda,Pereira,3,1,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,By Myself,
+1004775828,CC,pereira,Male,20,Single,0,B,Positive,Risaralda,Pereira,4,0,Expocamello,False,False,False,,Bachiller,N/A,By Myself,
+1088327206,CC,pereira,Male,26,Single,0,O,Negative,Risaralda,Pereira,3,0,Other,False,False,False,False,Bachiller,N/A,College,False
+5064292,PPT,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Profesional,N/A,By Myself,False
+1127538418,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,3,0,Apply online,False,False,False,False,Bachiller,N/A,Internet/school/institute,False
+1225093075,CC,pereira,Female,22,Single,0,O,Negative,Risaralda,Pereira,2,0,Job Fair,False,False,False,False,Tecnico,N/A,American Idiomas,False
+1110541264,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Pereira,2,1,Other,False,False,False,,Profesional,N/A,In The University In Colombia,
+1115085718,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1088332073,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,In the colombo americano,False
+1112795168,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,1,1,Facebook,False,False,False,False,Bachiller,N/A,By Myself,
+1127025050,CC,pereira,Male,26,Single,0,A,Positive,Risaralda,Dosquebradas,3,2,Family,False,False,False,True,Bachiller,N/A,By Myself,True
+1036641621,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,6,0,Call,False,False,False,False,Tecnico,N/A,By Myself,False
+1087996434,CC,pereira,Male,33,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Sena,False,False,False,True,Estudiante universitario,N/A,utp,False
+1004767004,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,,Estudiante universitario,N/A,In The University In Colombia,
+1010156630,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,4,0,Call,False,False,False,,Estudiante universitario,N/A,Ilex,
+1088282001,CC,pereira,Male,31,Single,0,O,Positive,Risaralda,Pereira,4,1,Computrabajo,False,False,False,,Bachiller,N/A,Others: Ceipa business school,True
+1088538971,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Pereira,3,0,Other,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1088357096,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,Ilex,False
+1069762421,CC,pereira,Female,24,Single,0,O,Positive,Valle Del Cauca,Cartago,3,0,Computrabajo,False,False,False,True,Tecnologo,N/A,By Myself,False
+1088335644,CC,pereira,Male,25,Single,0,A,Positive,Quindio,Armenia,2,0,A Friend Working In Accedo,False,False,False,False,Tecnologo,N/A,Ilex,False
+1088327264,CC,pereira,Male,26,Single,0,A,Positive,Risaralda,Pereira,3,0,Flyer,False,False,False,True,Estudiante universitario,N/A,Centro Colombo Americano,False
+1088349643,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,3,3,Facebook,False,False,True,False,Bachiller,N/A,By Myself,False
+1088346254,CC,pereira,Female,24,Single,0,B,Positive,Risaralda,Dosquebradas,3,0,Friend,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088292930,CC,pereira,Male,30,Single,0,A,Positive,Risaralda,Pereira,1,0,Other,False,False,False,False,Profesional,N/A,By Myself,False
+1088264795,CC,pereira,Male,33,Single,0,O,Positive,Risaralda,Dosquebradas,1,0,Friend,False,False,False,True,Bachiller,N/A,ilex-utp ,False
+1193057009,CC,pereira,Female,23,Single,0,A,Positive,Risaralda,Pereira,3,0,Family,False,False,False,False,Bachiller,N/A,At School In Colombia,False
+1093223617,CC,pereira,Male,28,Married,0,O,Negative,Risaralda,Santa Rosa De Cabal,2,0,Computrabajo,False,False,False,True,Bachiller,N/A,UTP,False
+1054568431,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Computrabajo,False,False,False,,Tecnico,N/A,Centro Colombo Americano,
+1088335520,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,3,0,Friend,False,False,False,False,Estudiante universitario,N/A,utp,False
+1088349599,CC,pereira,Female,23,Single,0,A,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachiller,N/A,Centro Colombo Americano Manizales,False
+1088314561,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Pereira,5,0,Whatsapp,False,False,False,,Profesional,N/A,Ilex,
+1088345080,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Pereira,2,0,Other,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1088353151,CC,pereira,Male,823,Single,0,AB,Positive,Risaralda,Pereira,4,1,Facebook,False,False,False,,Estudiante universitario,N/A,Others,
+1072531465,CC,pereira,Female,23,Single,0,O,Negative,Risaralda,Pereira,2,0,Facebook,False,False,False,,Bachiller,N/A,Others,
+1088288476,CC,pereira,Male,31,Single,0,O,Negative,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,selftaught,True
+731674826111985,PEP,pereira,Female,36,Single,1,O,Positive,Valle Del Cauca,Cartago,3,1,Instagram,False,False,False,False,Tecnologo,N/A,Others,
+1049634235,CC,pereira,Male,28,Single,1,B,Negative,Risaralda,Pereira,4,1,Whatsapp,False,False,False,False,Profesional,Electronic engineer,by Myself,False
+1112789892,CC,pereira,Male,24,Single,0,B,Positive,Valle Del Cauca,Cartago,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By Myself,False
+1005297366,TI,pereira,Female,19,Single,0,O,N/A,Risaralda,Pereira,3,0,Family,False,False,False,False,Bachiller,N/A,At School In Colombia,False
+747789307011993,PEP,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,4,0,Family,False,False,False,,Profesional,N/A,By Myself,False
+1004719762,CC,pereira,Female,20,Single,0,O,Negative,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Others,
+1088013062,CC,pereira,Male,29,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,True,Bachiller,N/A,Ilex,False
+1059449626,CC,pereira,Male,26,Single,1,A,Positive,Risaralda,Pereira,4,3,Facebook,False,False,False,,Tecnologo,N/A,Others,
+1112784705,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Facebook,False,False,False,False,Estudiante universitario,N/A,NEWYORK INSTITUTE,False
+1225088024,CC,pereira,Male,25,Common law marriage,1,O,Positive,Risaralda,Pereira,3,2,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,Centro Colombo Americano,
+1006022247,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Pereira,2,0,Apply On Line / Accedo Page,False,False,False,,Estudiante universitario,N/A,Others,
+1088325060,CC,pereira,Female,27,Single,0,A,Positive,Risaralda,Pereira,3,0,Whatsapp,False,False,False,False,Tecnologo,N/A,By Myself,True
+1096236718,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Computrabajo,False,False,False,,Profesional,N/A,By Myself,
+1088356586,CC,pereira,Female,22,Single,0,A,Positive,Risaralda,Pereira,2,2,Facebook,False,False,False,,Bachiller,N/A,Centro Colombo Americano,
+1093230351,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Computrabajo,False,False,False,False,Bachiller,N/A,At School In Colombia,False
+1088346740,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+1010097833,CC,pereira,Male,20,Single,0,A,Negative,Risaralda,Pereira,2,0,Apply On Line / Accedo Page,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,
+1088035677,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1088339388,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,2,1,A Friend Working In Accedo,False,False,False,,Profesional,N/A,Ilex,
+1088316014,CC,pereira,Male,28,Common law marriage,0,O,Positive,Risaralda,Dosquebradas,1,1,Apply On Line / Accedo Page,False,False,False,False,Estudiante universitario,N/A,Ilex,
+1088265443,CC,pereira,Male,33,Single,0,O,Positive,Risaralda,Pereira,3,0,Whatsapp,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,
+1088029300,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,A Friend Working In Accedo,False,False,False,,Profesional,N/A,Others,
+1088324580,CC,pereira,Male,27,Single,0,A,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,Centro Colombo Americano,False
+1088315790,CC,pereira,Female,28,Single,0,O,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,,Profesional,N/A,In The University In Colombia,
+1007527068,CC,pereira,Female,22,Single,0,O,Positive,Quindio,Armenia,1,2,Family,False,False,False,,Bachiller,N/A,Others,
+1004753336,CC,pereira,Female,21,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,By Myself,
+1088261762,CC,pereira,Female,33,Single,0,A,Positive,Risaralda,Pereira,4,0,Friend,False,False,False,False,Estudiante universitario,N/A,Colombo,False
+1005093167,CC,pereira,Female,21,Single,0,AB,Positive,Quindio,Armenia,1,1,Apply On Line / Accedo Page,False,False,True,,Estudiante universitario,N/A,In The University In Colombia,
+1004668069,CC,pereira,Male,20,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,By Myself,
+1088299862,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,2,1,Facebook,False,False,False,,Profesional,N/A,In The University In Colombia,
+1088033752,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,0,0,Friend,False,False,False,False,Tecnico,N/A,Internet,False
+1088315068,CC,pereira,Male,28,Single,0,O,Negative,Risaralda,Pereira,4,0,Facebook,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1089746347,CC,pereira,Male,31,Single,0,O,Positive,Risaralda,Pereira,0,0,Flyer,False,False,False,False,Tecnico,N/A,By Myself,False
+1088339675,CC,pereira,Male,25,Single,0,A,Positive,Risaralda,Pereira,1,0,Poster,False,False,False,False,Estudiante universitario,N/A,Others,False
+1004779525,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,3,0,Expocamello,False,False,False,,Bachiller,N/A,By Myself,
+1004701710,CC,pereira,Female,20,Single,0,A,Positive,Risaralda,Pereira,3,2,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,At School In Colombia,
+1088326349,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,0,0,Friend,False,False,False,False,Tecnologo,N/A,centro colombo americano,False
+5292343,PPT,pereira,Female,33,Single,0,A,Positive,Risaralda,Dosquebradas,3,1,Computrabajo,False,False,False,,Profesional,N/A,Others,False
+1088018988,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,True,False,Tecnologo,N/A,"by myself ,videogames,music,movies and university",True
+1000933008,CC,pereira,Female,20,Single,0,B,Positive,Risaralda,Dosquebradas,3,0,Acciontrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1093220768,CC,pereira,Male,30,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,1,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,By Myself,False
+1116274788,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,In The University In Colombia,False
+1088020539,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+1192794714,CC,pereira,Male,21,Single,0,O,Negative,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,American Idiomas,
+1193078755,CC,pereira,Male,19,Single,2,O,Positive,Risaralda,Dosquebradas,2,2,Computrabajo,False,True,False,False,Bachiller,N/A,By Myself,False
+1014208512,CC,pereira,Female,32,Single,0,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,True,Profesional,N/A,Others: ,True
+1004995874,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,2,0,Other,False,False,False,False,Estudiante universitario,N/A,Ilex,False
+1053844382,CC,pereira,Male,26,Single,0,A,Positive,Risaralda,Pereira,2,0,Call,False,False,True,False,Profesional,N/A,Centro Colombo Americano,False
+1088330501,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,5,0,Apply On Line / Accedo Page,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088325798,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Pereira,1,0,Banner,False,False,False,False,Tecnico,N/A,by myself,False
+1193463901,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Pereira,4,1,Facebook,False,False,False,False,Estudiante universitario,Software Engineering,In The University In Colombia,False
+1004678697,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,,Bachiller,N/A,Others,
+18616667,CC,pereira,Male,42,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Computrabajo,False,False,False,False,Profesional,N/A,Ilex,False
+1088341294,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,2,2,Instagram,False,False,False,False,Bachiller,N/A,The World School Pereira,False
+1127615181,CC,pereira,Male,41,Married,1,O,Positive,Risaralda,Pereira,4,2,Facebook,False,False,False,False,Especialista/Master,Ingeniero Agrónomo,Others,False
+1005187722,CC,pereira,Female,21,Single,0,B,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Others,
+1088327882,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,1,0,Call,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088031908,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Instagram,False,False,False,False,Estudiante universitario,N/A,Others,False
+1088325490,CC,pereira,Female,27,Single,1,O,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1192771742,TI,pereira,Female,21,Single,0,O,Negative,Risaralda,Santa Rosa De Cabal,2,0,Facebook,False,False,False,False,Bachiller,N/A,Focus English Pereira,False
+1192766795,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,3,0,Family,False,False,False,,Estudiante universitario,N/A,Centro Colombo Americano,
+1010049742,TI,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Family,False,False,True,,Bachiller,N/A,Others,
+1004736250,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,1,2,Facebook,False,False,False,False,Estudiante universitario,N/A,Others,
+1125784839,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Dosquebradas,4,0,Flyer,False,False,False,,Bachiller,N/A,Others: ,
+1152470917,CC,pereira,Female,22,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Computrabajo,False,False,False,False,Tecnico,N/A,By Myself,False
+1088345716,CC,pereira,Male,24,Single,0,A,Positive,Valle Del Cauca,Cartago,2,0,A Friend Working In Accedo,False,False,False,True,Tecnologo,N/A,Centro Colombo Americano,False
+1017280188,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,6,0,Family,False,False,False,False,Profesional,N/A,By Myself,False
+1088298570,CC,pereira,Male,30,Single,0,O,Positive,Risaralda,Pereira,0,0,Apply On Line / Accedo Page,False,False,False,True,Estudiante universitario,N/A,Ilex,False
+536051,CE,pereira,Male,33,Married,1,A,Positive,Risaralda,Pereira,2,2,Instagram,False,False,False,False,Profesional,N/A,Others,False
+1094969591,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,False,N/A,N/A,By Myself,False
+1088001517,CC,pereira,Male,32,Single,0,A,Positive,Risaralda,Dosquebradas,2,1,El Empleo,False,False,False,False,Estudiante universitario,N/A,CCA and myself,False
+1004417569,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,1,1,Facebook,False,False,False,False,Estudiante universitario,N/A,American Business School,
+1004774729,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Pereira,3,3,A Friend Working In Accedo,True,False,False,True,Tecnico,N/A,By Myself,False
+1088253551,CC,pereira,Male,34,Single,0,A,Positive,Risaralda,Pereira,4,0,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+1004778484,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Family,True,False,True,True,Bachiller,N/A,By Myself,False
+1125998861,CC,pereira,Female,22,Single,0,A,Positive,Risaralda,Dosquebradas,1,0,Other,False,False,True,False,Bachiller,N/A,Others,False
+1000099702,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,American English Institute,False
+1088324838,CC,pereira,Female,27,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,In The University In Colombia,False
+1088355786,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,,Tecnologo,N/A,By Myself,
+1088347867,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,1,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,by Myself,False
+1033716739,CC,pereira,Male,32,Single,0,A,Positive,Risaralda,Pereira,2,2,Family,False,False,False,True,Bachiller,N/A,Others,False
+4681503,PPT,pereira,Male,42,Married,2,O,Positive,Risaralda,Pereira,4,3,Computrabajo,False,False,False,False,Profesional,N/A,By Myself,False
+1088280924,CC,pereira,Female,31,Single,1,O,Positive,Risaralda,Dosquebradas,3,1,Facebook,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1088035392,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Family,False,False,False,True,Estudiante universitario,N/A,at school,False
+1002635882,TI,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,4,0,Family,True,False,False,False,Tecnico,N/A,At School In Colombia,False
+1005784442,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,Others,False
+1234643858,CC,pereira,Male,23,Single,0,O,N/A,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,True,True,Tecnologo,N/A,Others,
+1004778219,TI,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachiller,N/A,By Myself,False
+1093221369,CC,pereira,Male,29,Common law marriage,0,O,Positive,Risaralda,Dosquebradas,4,1,Computrabajo,False,False,False,True,Estudiante universitario,N/A,Ilex,True
+1125998860,CC,pereira,Female,21,Single,0,A,Positive,Risaralda,Pereira,1,0,Facebook,True,False,False,False,Bachiller,N/A,Out Side  Colombia  ( Please Specify),False
+1004679210,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Instagram,False,False,False,False,Estudiante universitario,N/A,Ilex,False
+4512628,CC,pereira,Male,38,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,True,False,Profesional,Licenciado en Comunicación e Informática Educativa,Centro Colombo Americano,True
+42104469,CC,pereira,Female,49,Common law marriage,0,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Profesional,N/A,Centro Colombo Americano,
+1088267795,CC,pereira,Female,33,Single Mother,1,O,Negative,Risaralda,Pereira,4,1,Computrabajo,False,False,False,False,Bachiller,N/A,In The University In Colombia,True
+1004683267,CC,pereira,Female,20,Single,0,A,Positive,Risaralda,Santa Rosa De Cabal,3,0,A Friend Working In Accedo,False,False,True,,Bachiller,N/A,Others,
+25215427,CC,pereira,Female,37,Single,0,O,Positive,Risaralda,Pereira,4,0,Computrabajo,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,True
+1088250221,CC,pereira,Male,34,Single,0,O,Positive,Risaralda,Dosquebradas,3,1,Facebook,False,False,False,False,Profesional,N/A,Centro Colombo Americano,False
+1088352990,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Pereira,4,0,Computrabajo,False,False,False,False,Tecnologo,N/A,Ilex,False
+1088349627,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1093229496,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Call,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1193037528,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Pereira,2,2,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,Others,False
+1004700780,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1031144312,CC,pereira,Male,29,Common law marriage,0,O,Positive,Risaralda,Dosquebradas,3,1,Computrabajo,False,False,False,False,Profesional,N/A,Others,False
+1088345163,CC,pereira,Male,24,Married,1,A,Positive,Risaralda,Pereira,3,1,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,Others: Universidad Tecnológica de Pereira,
+1088357458,CC,pereira,Male,22,Single,0,O,Negative,Risaralda,Pereira,3,0,Family,False,False,False,False,Bachiller,N/A,American English Institute,False
+939069423031995,PEP,pereira,Female,27,Single,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,By Myself,False
+1004754724,CC,pereira,Female,19,Single,0,O,Negative,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,True,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1088292185,CC,pereira,Male,30,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,True,False,Estudiante universitario,N/A,Ilex,False
+1088345017,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,At School In Colombia,False
+1088347809,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,1,0,Infratech,False,False,False,False,Tecnico,N/A,Infratech,False
+1004671127,CC,pereira,Male,24,Single,0,O,Negative,Risaralda,Dosquebradas,2,0,Computrabajo,False,False,False,False,Estudiante universitario,N/A,Others,False
+1115195238,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,3,0,Apply On Line / Accedo Page,False,False,False,False,Estudiante universitario,N/A,American Business School,False
+1004701659,CC,pereira,Male,20,Single Father,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,American English Institute,False
+1225089513,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,True,Profesional,N/A,In The University In Colombia,False
+1088342347,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,At School In Colombia,False
+1088323003,CC,pereira,Female,27,Single,0,A,Positive,Valle Del Cauca,Cartago,0,0,Call,False,False,False,False,Estudiante universitario,N/A,In The University In Colombia,False
+1094974848,CC,pereira,Female,22,Single,0,B,Positive,Risaralda,Dosquebradas,3,0,Other,False,False,False,,Bachiller,N/A,In The University In Colombia,
+827593329051996,PEP,pereira,Male,25,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,By Myself,False
+1088326197,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Pereira,3,1,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1004779695,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,At School In Colombia,False
+42164744,CC,pereira,Female,36,Single,0,O,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Profesional,N/A,Ilex,True
+1004779727,TI,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,2,2,Job Fair,False,False,False,,Bachiller,N/A,Instituto De Ingles New York,
+9873615,CC,pereira,Male,40,Single,0,O,Positive,Risaralda,Pereira,4,1,A Friend Working In Accedo,False,False,False,,Tecnico,N/A,Others: ,
+1004756715,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,Others,False
+1088037765,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Banner,False,False,False,False,Bachiller,N/A,Ilex,False
+1123632538,CC,pereira,Female,27,Single,0,A,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,,Profesional,N/A,Centro Colombo Americano,
+1085716074,CE,pereira,Male,18,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,True,False,Bachiller,N/A,By Myself,False
+1125808481,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Others,False
+1088333634,CC,pereira,Male,26,Single,0,A,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Profesional,N/A,Centro Colombo Americano,False
+1004739423,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,4,Family,True,False,False,False,Tecnico,N/A,By Myself,False
+1006592719,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Computrabajo,False,False,False,False,Tecnico,N/A,Centro Colombo Americano,
+1088310560,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Out Side  Colombia  ( Please Specify),False
+1088338330,CC,pereira,Male,25,Single,0,A,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,True,False,False,False,Bachiller,N/A,By Myself,False
+1088274700,CC,pereira,Female,32,Single,2,O,Positive,Risaralda,Pereira,3,2,Computrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,True
+1192898815,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,At School In Colombia,False
+1004700538,CC,pereira,Female,19,Single,0,A,Positive,Risaralda,Pereira,4,0,Computrabajo,False,False,False,False,Tecnico,N/A,By Myself,False
+1088341213,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,True,False,False,False,Bachiller,N/A,In the school,False
+1002956784,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,True,,Bachiller,N/A,Others: UTP,
+1010220048,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,Others,False
+1088354852,CC,pereira,Male,23,Single,0,O,Negative,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Ilex,False
+1088348246,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Computrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1225090718,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachiller,N/A,At High School and uneversity,False
+1088350680,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,False
+1088023950,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,4,0,Facebook,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1004520132,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,True,,Bachiller,N/A,Others: Universidad Tecnológica de Pereira,
+1093228196,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,3,Whatsapp,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,False
+1004519349,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,By Myself,False
+10013383,CC,pereira,Male,42,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Facebook,False,False,False,True,Estudiante universitario,N/A,home and diferents institutes,True
+1088349707,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,3,3,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,Others,False
+1004754940,CC,pereira,Female,19,Single,0,A,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,Bachiller,N/A,Others,False
+1088322707,CC,pereira,Male,27,Single,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,True,True,Estudiante universitario,N/A,In The University In Colombia,True
+1085796319,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Tecnico,N/A,Others,False
+1006049506,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,At School In Colombia,False
+1004671104,CC,pereira,Female,22,Single,0,B,Positive,Risaralda,Dosquebradas,2,3,Instagram,True,False,False,False,Tecnico,N/A,American Idiomas,False
+1004789707,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachiller,N/A,Others,False
+1088350363,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,In The University In Colombia,True
+1075671757,CC,pereira,Female,28,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Instagram,False,False,False,True,Estudiante universitario,N/A,At School In Colombia,False
+1193526603,CC,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,,Bachiller,N/A,By Myself,True
+1004779332,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,,Bachiller,N/A,Instituto De Ingles New York,
+1004699814,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Pereira,3,0,Facebook,False,False,True,False,Bachiller,N/A,Centro Colombo Americano,False
+1088349531,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Call,False,False,False,False,Bachiller,N/A,American business school,False
+1010071940,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Family,False,False,False,False,Bachiller,N/A,By Myself,False
+1010015554,CC,pereira,Male,22,Single,0,O,Negative,Risaralda,Pereira,4,0,Call,False,False,True,False,Estudiante universitario,N/A,Others,False
+1088354744,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,In The University In Colombia,False
+1061373440,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,,Bachiller,N/A,By Myself,
+1225093003,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,False
+1094924378,CC,pereira,Female,30,Married,2,O,Positive,Risaralda,Pereira,2,2,Instagram,False,False,False,False,Profesional,N/A,Others,False
+1225091587,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,1,0,Computrabajo,False,False,False,,Bachiller,N/A,Others: ,
+1088335942,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,0,0,Family,False,False,False,False,Bachiller,N/A,By Myself,False
+1088356982,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Estudiante universitario,English teacher,Centro Colombo Americano,False
+1088320387,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Radio,False,False,False,False,Bachiller,N/A,United States,False
+1088336965,CC,pereira,Female,25,Single,0,A,Positive,Risaralda,Pereira,1,0,Family,False,False,False,False,Tecnico,N/A,By Myself,False
+1004683061,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,False,Bachiller,student,Centro Colombo Americano,False
+1112777766,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Tecnico,N/A,COLOMBO,False
+1002938673,CC,pereira,Female,20,Single,0,O,Negative,Risaralda,Dosquebradas,3,0,Google,False,False,False,,Bachiller,N/A,Centro Colombo Americano,
+1122801787,CC,pereira,Male,28,Single,1,O,Positive,Risaralda,Dosquebradas,3,1,Call,False,False,False,True,Estudiante universitario,N/A,Out Side  Colombia  ( Please Specify),False
+1005976310,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,5,0,Family,False,False,False,False,Bachiller,student,Berlitz,False
+1112788858,CC,pereira,Male,25,Single,0,B,Negative,Valle Del Cauca,Cartago,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By Myself,False
+1089930382,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Pereira,3,0,Call,False,False,False,False,Bachiller,Student,American English Institute,False
+1004699267,CC,pereira,Female,22,Single,0,B,Positive,Risaralda,Pereira,1,0,Instagram,False,False,False,False,N/A,N/A,By Myself,False
+1125679369,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Family,False,False,False,False,Profesional,N/A,Out Side  Colombia  ( Please Specify),False
+1004737521,CC,pereira,Female,19,Single,0,O,Negative,Risaralda,Pereira,3,2,Instagram,False,False,False,False,Bachiller,No,By Myself,False
+1193084750,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1002853290,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Centro Colombo Americano,
+1004736866,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,1,0,Instagram,False,False,False,False,Bachiller,Independiente,Others,False
+1004701720,CC,pereira,Female,20,Single,0,AB,Negative,Risaralda,Pereira,3,0,Computrabajo,False,False,True,True,Tecnologo,Tecnologa en sistemas de Gestion,Others,False
+1088355855,CC,pereira,Male,22,Single,0,A,Negative,Risaralda,Dosquebradas,2,1,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,By Myself,False
+1053865949,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,Bachiller,Makeup Artist,In The University In Colombia,True
+1112767975,CC,pereira,Male,32,Common law marriage,1,O,Positive,Valle Del Cauca,Cartago,3,2,Computrabajo,False,False,False,True,Profesional,N/A,American English Institute,False
+1192719592,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Tecnologo,Student,Centro Colombo Americano,False
+1005945351,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Tecnico,Student,Others,False
+1004701986,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,5,0,Other,False,False,False,False,Tecnico,Tripulante de Cabina de Pasajeros,Others,False
+1004735896,CC,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachiller,N/A,American Idiomas,False
+1054998495,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,3,0,Instagram,False,False,True,False,Tecnico,Tec. Diseno Grafico,Centro Colombo Americano,False
+1001022405,CC,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,Student,Others,False
+1004738731,CC,pereira,Male,21,Single,0,B,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,
+1193536815,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,True,Tecnologo,Tecnología en Gestión Administrativa,Centro Colombo Americano,False
+1115083290,CC,pereira,Male,27,Single,0,AB,Positive,Valle Del Cauca,Yotoco,2,0,Instagram,False,False,False,True,Profesional,N/A,At School In Colombia,False
+1225091911,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,4,0,Family,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1088034052,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+1112781555,CC,pereira,Male,28,Single,0,O,Positive,Valle Del Cauca,Cartago,2,0,Computrabajo,False,False,False,True,Estudiante universitario,N/A,Centro Colombo Americano,False
+1193551049,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,A Friend Working In Accedo,False,False,False,True,Bachiller,-,By Myself,False
+1088017868,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,False,Tecnologo,N/A,Ilex,False
+1225092059,CC,pereira,Female,23,Single,0,B,Positive,Risaralda,Pereira,4,2,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,Psicología,Centro Colombo Americano,False
+1034287662,CC,pereira,Female,19,Single,0,O,Negative,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,True,Bachiller,Estudiante,Centro Colombo Americano,False
+1088355936,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,Ingeniería física,Focus English Pereira,False
+1002652578,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,2,1,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,Licenciatura en bilingüismo con énfasis en ingles,At School In Colombia,False
+1125231104,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By Myself,False
+1004776851,TI,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,By Myself,
+75088684,CC,pereira,Male,43,Single,0,O,Positive,Risaralda,Pereira,6,0,Family,False,False,False,False,Especialista/Master,Comunicador Social y Periodista,Centro Colombo Americano,True
+1005000973,CC,pereira,Male,20,Single,0,B,Positive,Risaralda,Pereira,1,1,Instagram,False,False,False,True,Tecnico,Student,By Myself,False
+1097725083,CC,pereira,Male,30,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Profesional,Business administrator,Centro Colombo Americano,False
+1032491930,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Call,False,False,False,False,Tecnico,N/A,By Myself,False
+1094916712,CC,pereira,Male,31,Single,0,O,Positive,Quindio,Armenia,3,0,Facebook,False,False,True,True,Profesional,Profesor de Español y literatura,Centro Colombo Americano,False
+1193129608,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Tecnico,Student,Asap,False
+1019016947,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Facebook,False,False,False,False,Bachelor,estudiante,By Myself,False
+1105926579,TI,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,False,Bachelor,student in university,Others,False
+18509971,CC,pereira,Male,56,Married,1,O,Positive,Risaralda,Dosquebradas,3,2,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Others,
+1032502527,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Profesional,Psicóloga,By Myself,False
+1007527003,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,3,2,Computrabajo,False,False,False,False,Technical,Student,Others,False
+1193084696,CC,pereira,Male,19,Single,0,O,Negative,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,False,Bachiller,N/A,By Myself,False
+18395552,CC,pereira,Male,47,Single,1,O,Positive,Risaralda,Pereira,4,1,Computrabajo,False,False,False,True,Bachiller,N/A,Others,False
+1088322538,CC,pereira,Male,27,Common law marriage,1,O,Positive,Risaralda,Dosquebradas,3,2,Computrabajo,False,False,False,True,Tecnico,N/A,Others,False
+1128224818,CC,pereira,Female,21,Single,0,O,Negative,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Technologist,unemployed,By Myself,False
+1004736885,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,True,Estudiante universitario,N/A,Ilex,False
+1004521308,CC,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,4,2,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1005544021,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Pereira,2,0,Other,False,False,False,False,Bachiller,student,American Idiomas,False
+1088258769,CC,pereira,Male,34,Married,1,O,Positive,Risaralda,Pereira,2,1,A Friend Working In Accedo,False,False,False,True,Tecnico,N/A,Universidad Tecnologica de Pereira,False
+1088012024,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Dosquebradas,2,2,Facebook,False,False,False,False,Tecnologo,N/A,Centro Colombo Americano,False
+1094972306,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,1,Family,False,False,False,False,Tecnico,N/A,Out Side  Colombia  ( Please Specify),False
+1088324739,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Pereira,4,0,Family,False,False,False,,Estudiante universitario,N/A,By Myself,True
+5944589,CE,pereira,Male,26,Single,0,A,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,Bachelor,Technical,Others,True
+1088039429,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,Centro Colombo Americano,
+1004736654,CC,pereira,Male,19,Single,0,A,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,True,Technical,Student,Centro Colombo Americano,False
+1006294991,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,2,2,Instagram,False,False,False,False,Bachiller,no one,Centro Colombo Americano,False
+1006318907,CC,pereira,Female,21,Single,0,AB,Positive,Valle Del Cauca,Cartago,3,0,Computrabajo,False,False,False,True,Technologist,business managment,Others,False
+1225093096,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,2,2,Family,False,False,False,False,College student,Unemployed,By Myself,False
+1006321398,CC,pereira,Female,19,Single,0,O,Positive,Valle Del Cauca,Cartago,1,0,A Friend Working In Accedo,False,False,False,False,Technical,Graphic Design,By Myself,False
+1193597587,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,False,Bachiller,Estudiante,Others,False
+1012426253,CC,pereira,Male,26,Single,0,A,Positive,Quindio,Armenia,2,2,Computrabajo,False,False,False,False,Tecnologo,N/A,Others,False
+1088035932,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,In The University In Colombia,False
+1088294531,CC,pereira,Male,30,Single,0,AB,Negative,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,True,True,Bachiller,N/A,Saint Andrew's School,True
+1032475037,CC,pereira,Female,26,Single,0,A,Negative,Valle Del Cauca,Cartago,3,0,Computrabajo,False,True,True,False,Bachelor,Agent,At School In Colombia,True
+1089096414,TI,pereira,Female,18,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,Centro Colombo Americano,False
+1143864902,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,3,3,Computrabajo,False,False,False,False,Professional,Industrial Engineer,Centro Colombo Americano,False
+1004756811,CC,pereira,Female,21,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Centro Colombo Americano,
+42151049,CC,pereira,Female,1939,Common law marriage,2,O,Positive,Risaralda,Pereira,2,2,Computrabajo,False,False,False,False,Estudiante universitario,HUMAN RESOURCES TECHNOLOGIST,At School In Colombia,True
+1104710090,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Centro Colombo Americano,
+1112788018,CC,pereira,Male,25,Single,0,O,Positive,Valle Del Cauca,Cartago,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,school english institute,False
+1004519288,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,3,0,Expocamello,False,False,False,False,Bachelor,N/A,At School In Colombia,False
+1000226549,CC,pereira,Female,18,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,College student,Medicine student,Others,False
+1088242524,CC,pereira,Male,35,Single,0,O,Positive,Risaralda,Pereira,4,0,Computrabajo,False,False,False,False,Profesional,N/A,In The University In Colombia,False
+1088356789,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,1,0,Other,True,False,False,False,Bachelor,Ninguna,At School In Colombia,True
+1093228280,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,1,Poster,False,False,False,False,Estudiante universitario,N/A,At School In Colombia,False
+1112777782,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Bachiller,N/A,ilex utp,False
+1088349098,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,1,2,Whatsapp,False,False,False,False,Bachelor,none,By Myself,False
+926514012041993,PEP,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,3,0,Apply On Line / Accedo Page,True,False,False,False,Profesional,Lawyer,By Myself,False
+1004775817,CC,pereira,Male,20,Single,0,B,Positive,Risaralda,Pereira,1,0,Other,False,False,False,False,Estudiante universitario,N/A,At School In Colombia,
+1004753420,CC,pereira,Male,20,Single,0,A,Positive,Risaralda,Pereira,4,1,Facebook,False,False,False,False,Bachiller,N/A,By Myself,False
+1004681557,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Technical Bachelor,Centro Colombo Americano,False
+1005745621,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Estudiante,Others,False
+1088329871,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,3,1,Apply On Line / Accedo Page,False,False,False,False,College student,Ingeniería de Sistemas y Computación,Ilex,False
+1047467339,CC,pereira,Female,28,Single,0,O,Positive,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachelor,Teacher,Centro Colombo Americano,False
+1088023962,CC,pereira,Male,26,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,Family,False,False,False,False,Tecnologo,N/A,Colombo Americano,False
+1004735363,CC,pereira,Male,20,Single,0,O,Negative,Risaralda,Dosquebradas,2,0,Family,True,False,False,False,Technical,N/A,By Myself,False
+1056370308,CC,pereira,Female,30,Single Mother,1,O,Positive,Risaralda,Dosquebradas,2,1,A Friend Working In Accedo,False,False,False,False,Professional,Civil engineer,Others,False
+1005021268,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachelor,Estudiante,Others,False
+1002944562,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Dosquebradas,1,3,Call,False,False,False,False,Technical,student,Others,False
+10134395,CC,pereira,Male,52,Single,0,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Profesional,Enfermero,by Myself,False
+1007192447,CC,pereira,Male,21,Single,0,O,Negative,Risaralda,Dosquebradas,3,0,Other,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,
+1004777942,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Technical,Student,Centro Colombo Americano,False
+1088034945,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1000464553,CC,pereira,Male,20,Single,0,O,Negative,Risaralda,Pereira,2,0,Family,False,True,False,False,Bachiller,Music Producer / Pilot,by Myself,False
+1004680735,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,The World School Pereira,False
+1088328503,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,centro colombo americano,False
+1088341290,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Dosquebradas,2,3,Instagram,False,False,False,False,Professional,Mechanical engineer,By Myself,False
+1045416063,TI,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,True,False,True,Technical,Student,Others,False
+1088344535,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,4,0,Facebook,False,False,False,True,Bachiller,N/A,centro colombo americano ,False
+1057330059,CC,pereira,Female,18,Single,0,O,Negative,Risaralda,Dosquebradas,2,0,Whatsapp,False,False,False,False,Bachelor,ninguna,By Myself,False
+1225091215,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Technical,None,Centro Colombo Americano,False
+1088321376,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,True,Tecnologo,N/A,Centro Colombo Americano,False
+1010054204,TI,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,Centro Colombo Americano,False
+1004567705,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,3,1,Family,False,False,False,False,Technical,Flight attendent/ Cabin crew,Centro Colombo Americano,False
+1054539897,TI,pereira,Male,17,Single,0,O,Negative,Risaralda,Dosquebradas,4,0,Other,False,False,False,False,Bachelor,French student,Centro Colombo Americano,False
+1089930348,CC,pereira,Male,18,Single,0,B,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,By Myself,False
+1005706364,CC,pereira,Male,21,Single,0,O,Positive,Valle Del Cauca,Sevilla,2,0,Facebook,False,False,False,False,Bachiller,N/A,by Myself,False
+1088308951,CC,pereira,Male,28,Single Father,1,A,Positive,Risaralda,Pereira,3,1,El Empleo,False,False,False,True,Bachiller,Technologist in systems,by Myself,False
+1097039619,CC,pereira,Male,25,Single,0,O,Positive,Quindio,Quimbaya,2,0,A Friend Working In Accedo,False,False,False,True,Profesional,ingeniero industrial,by Myself,False
+1088038413,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Dosquebradas,0,0,Facebook,False,False,False,True,Bachiller,N/A,Centro Colombo Americano,False
+1053797440,CC,pereira,Male,32,Married,0,O,Negative,Risaralda,Pereira,3,1,Computrabajo,False,False,False,True,Tecnico,N/A,By Myself,True
+1112786631,CC,pereira,Male,26,Single,0,A,Positive,Valle Del Cauca,Cartago,2,0,Computrabajo,False,False,False,False,Bachiller,N/A,At School In Colombia,False
+1004752742,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1004831382,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Instagram,False,False,False,False,Bachelor,Student,Ilex,False
+1088342571,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,4,1,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,By Myself,False
+1004521053,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Independiente,Centro Colombo Americano,False
+1004519409,TI,pereira,Male,18,Single,0,A,Positive,Risaralda,Pereira,5,0,Family,True,False,False,True,Bachiller,N/A,At School In Colombia,False
+1088308440,CC,pereira,Female,29,Single,1,A,Positive,Risaralda,Pereira,0,0,Friend,False,False,False,False,Tecnologo,N/A,universidad y en el sena,False
+1088338186,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Profesional,Licenciado en Comunicación e Informática Educativas,by Myself,True
+1004778267,CC,pereira,Male,20,Single,0,O,Negative,Risaralda,Dosquebradas,2,2,Expocamello,False,False,False,False,Bachelor,waitress,By Myself,False
+1057601299,CC,pereira,Male,25,Single,0,A,Negative,Risaralda,Pereira,3,1,Facebook,False,False,False,False,College student,Lawyer,In The University In Colombia,False
+1004832168,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Instagram,False,False,False,False,College student,Nothing,Others,False
+1004365913,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,1,3,Other,False,False,False,False,Bachelor,No,By Myself,True
+1001268683,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,2,2,Family,False,False,False,True,Technical,Bachelor of Software Programming Technician,Ilex,False
+1128224819,CC,pereira,Male,20,Single,0,A,Negative,Risaralda,Dosquebradas,2,0,Family,True,False,False,False,Bachelor,Bachiller,By Myself,False
+1017266002,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,4,1,Computrabajo,False,False,False,False,Technologist,Marketing Management,Others,False
+1007051115,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,2,0,Call,False,False,False,True,Bachelor,"sales man, client service and manager",By Myself,False
+1192815718,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Pereira,4,0,Instagram,False,False,False,False,Bachelor,Student,Others,False
+1088034168,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Dosquebradas,0,0,Friend,False,False,False,False,Profesional,Licenciado en Artes Visuales,Ilex,False
+1004738237,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,4,1,A Friend Working In Accedo,False,False,False,False,Bachelor,NONE,By Myself,False
+1006071919,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Instagram,False,False,False,True,Bachelor,estudiante,Others,False
+10139936,CC,pereira,Male,51,Common law marriage,0,B,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,True,Estudiante universitario,N/A,The World School Pereira,False
+1016050818,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,4,0,Facebook,False,False,False,,Estudiante universitario,N/A,Others,
+1088287890,CC,pereira,Female,31,Single,0,A,Positive,Risaralda,Pereira,5,0,Call,False,False,False,False,Profesional,Industrial Engineering,Centro Colombo Americano,False
+1112783762,CC,pereira,Female,27,Single,0,O,Positive,Risaralda,Pereira,2,1,Instagram,False,True,False,True,Professional,ADMINISTRACIÓN DE EMPRESAS,Others,True
+1088027972,CC,pereira,Female,25,Single,0,A,Positive,Risaralda,Dosquebradas,1,1,Instagram,False,False,False,False,Technologist,GESTION DEL TURISMO SOSTENIBLE,In The University In Colombia,True
+1279506,PPT,pereira,Male,27,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Bachelor,independiente,Others,False
+1004685615,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,Centro Colombo Americano,False
+1088029121,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Call,False,False,False,False,Bachiller,N/A,Colombo Americano,False
+1088343625,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,True,Profesional,INGENIERO CIVIL,by Myself,
+1112786241,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,4,1,El Empleo,False,False,False,False,Estudiante universitario,N/A,American English Institute,False
+1034290477,CC,pereira,Female,26,Single,0,A,Negative,Risaralda,Dosquebradas,2,0,Computrabajo,False,False,False,False,College student,Children pedadogy,Others,False
+1114459178,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,colombo americano,False
+1192801058,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,False,Estudiante universitario,N/A,By Myself,False
+1002859530,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,3,0,Whatsapp,False,False,False,False,College student,Foreign languages degree,Others,False
+1000240287,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,
+1094956744,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Professional,Professor Of Modern Languages,In The University In Colombia,False
+1088033361,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Job Fair,False,False,False,False,Technologist,Electrical Technologist,At School In Colombia,False
+1014197701,CC,pereira,Male,33,Common law marriage,1,O,Negative,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Tecnologo,N/A,SENA,False
+1225093621,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,1,0,Banner (Mantas),False,False,False,False,Tecnico,N/A,At School In Colombia,False
+1004775245,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,2,0,Instagram,False,False,False,False,Technical,Unemployed,By Myself,False
+1088030837,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Other,False,False,False,False,Tecnico,N/A,School,False
+1192771669,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,True,College student,none,Ilex,False
+1054998377,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Tecnologo,N/A,Centro Colombo Americano,False
+1116261454,CC,pereira,Male,28,Married,0,O,Negative,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,True,Profesional,N/A,By Myself,True
+1010072438,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,True,False,Estudiante universitario,N/A,By Myself,False
+1007549949,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,1,2,Computrabajo,False,False,False,False,Technical,Asesora servicio al cliente,By Myself,True
+952305721071993,PEP,pereira,Female,28,Single,0,O,Positive,Risaralda,Dosquebradas,3,3,Instagram,False,False,False,False,Bachelor,Waitress,By Myself,False
+1193124182,CC,pereira,Male,20,Single,0,B,Positive,Risaralda,Pereira,2,0,Google,False,False,False,False,Bachelor,independent,At School In Colombia,False
+1004739314,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,A Friend Working In Accedo,False,False,True,False,Bachelor,I do not have a profession,American English Institute,False
+1097039146,CC,pereira,Male,26,Single,0,B,Positive,Quindio,Quimbaya,2,1,Computrabajo,False,False,False,True,Professional,LIC. LENGUAS MODERNAS,In The University In Colombia,False
+1006295169,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,3,0,Apply On Line/Accedo Page,False,False,False,False,Bachiller,None,Centro Colombo Americano,False
+1088038745,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,2,Other,False,False,True,False,Tecnico,N/A,Centro Colombo Americano,False
+1004521458,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachelor,estudiante,Others,False
+10115416,CC,pereira,Male,57,Single,2,B,Positive,Risaralda,Pereira,2,0,Other,False,False,False,False,Estudiante universitario,Soon to be a Lawyer,Others,False
+1088349105,CC,pereira,Female,23,Single,0,O,Negative,Risaralda,Dosquebradas,3,3,A Friend Working In Accedo,False,False,False,False,College student,Artist,By Myself,False
+1000646543,CC,pereira,Female,20,Single,0,B,Positive,Risaralda,Pereira,6,0,Apply On Line / Accedo Page,False,False,False,False,Bachiller,N/A,At School In Colombia,
+1193107785,CC,pereira,Female,20,Single,0,A,Negative,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,College student,Student,In The University In Colombia,False
+1007217706,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,1,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,
+1088348219,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,3,0,Call,True,False,False,False,Bachiller,N/A,By Myself,False
+1094927121,CC,pereira,Female,30,Single,0,A,Positive,Quindio,Armenia,2,0,Computrabajo,False,False,False,True,Profesional,N/A,American Business School,False
+1118849436,CC,pereira,Female,28,Married,0,O,Positive,Quindio,Armenia,3,3,A Friend Working In Accedo,False,False,False,False,Professional,Modern languages professional,In The University In Colombia,False
+1098312516,CC,pereira,Female,24,Single,0,A,Negative,Quindio,Armenia,1,1,News Paper,False,False,True,True,Estudiante universitario,Professor,In The University In Colombia,False
+1094899622,CC,pereira,Female,33,Single,0,A,Negative,Quindio,Armenia,3,0,Apply On Line/Accedo Page,False,False,False,False,Professional,Administrador de empresas,By Myself,True
+1018439876,CC,pereira,Female,31,Single,1,O,Positive,Quindio,Armenia,2,1,Facebook,False,False,False,False,Professional,ingeniera mecatronica,At School In Colombia,False
+1097405371,CC,pereira,Male,25,Single,0,O,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,True,Bachelor,agent,Centro Colombo Americano,True
+1094953488,CC,pereira,Male,26,Married,0,A,Negative,Quindio,Armenia,3,0,Computrabajo,False,False,False,False,Profesional,N/A,By Myself,
+1094962993,CC,pereira,Male,24,Single,0,O,Positive,Quindio,Armenia,1,0,Mail,False,False,False,False,College student,Teacher,Others,False
+1144037992,CC,pereira,Male,31,Single,0,O,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,True,Specialist/Master,Business Administrator,By Myself,False
+1094970106,CC,pereira,Female,23,Single,0,A,Negative,Quindio,Armenia,5,1,A Friend Working In Accedo,False,False,True,False,College student,Student of modern languages,In The University In Colombia,False
+1094969503,CC,pereira,Female,23,Single,0,O,Positive,Quindio,Armenia,2,0,Call,False,False,False,False,College student,Licenciada en lenguas modernas.,Others,False
+1010142962,CC,pereira,Male,21,Single,0,A,Negative,Risaralda,La Virginia,2,0,A Friend Working In Accedo,False,False,False,True,College student,Student,In The University In Colombia,False
+1088358421,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,4,0,Call,False,False,False,True,Bachiller,N/A,Others: ,False
+1088025497,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,at utp,False
+1003157764,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,1,2,Acciontrabajo,False,False,False,False,College student,Administrador ambiental,By Myself,False
+1006533981,CC,pereira,Male,19,Single,0,A,Positive,Quindio,Armenia,3,0,Instagram,False,False,False,False,Bachelor,Student,Others,False
+1097407884,CC,pereira,Male,23,Single,0,O,Positive,Quindio,Armenia,3,0,Facebook,False,True,False,False,Profesional,English Professor,In The University In Colombia,False
+1054856280,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,True,Bachelor,STUDENT,Others,False
+1000366207,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,,Bachiller,N/A,Others,
+1094967086,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,2,1,Facebook,False,False,False,False,Tecnico,N/A,By Myself,False
+1004520912,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,College student,Degree in Bilingualism,At School In Colombia,False
+1088361553,CC,pereira,Male,24,Single,1,A,Positive,Risaralda,Pereira,3,1,Family,False,False,False,False,Technical,Chef,Others,False
+1088360086,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Bachelor,Bachiller,By Myself,False
+1004520877,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,None,Others,False
+1146637691,CC,pereira,Male,27,Single,0,A,Positive,Quindio,Armenia,4,0,Family,False,False,False,False,Bachelor,Receptionist,By Myself,False
+1042247799,TI,pereira,Male,18,Single,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Estudiante,By Myself,False
+1089598676,TI,pereira,Male,18,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,False,Tecnico,Systems Technique,Centro Colombo Americano,False
+1142520070,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,4,0,Family,False,False,False,False,College student,Estudiante,American English Institute,False
+1088824928,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Pereira,1,0,Instagram,False,False,False,False,Technical,Técnico en manejo ambiental,Centro Colombo Americano,False
+1004701228,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,4,0,Instagram,False,False,False,False,Bachelor,student,By Myself,False
+1097404173,CC,pereira,Female,26,Single,0,O,Positive,Risaralda,Pereira,2,2,Mail,False,False,False,False,Professional,Negocios internacionales,By Myself,False
+1059694033,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,College student,None,By Myself,False
+1004737091,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,College student,Marketing Administration,Others,False
+1004736127,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,3,A Friend Working In Accedo,False,False,False,False,Bachelor,None,Others,False
+1193131602,CC,pereira,Male,20,Single,0,O,Positive,Quindio,Armenia,3,0,Whatsapp,False,False,False,False,Bachelor,Independiente,Others,False
+1094947679,CC,pereira,Female,27,Single,0,O,Negative,Quindio,Armenia,2,0,Computrabajo,False,False,False,True,Professional,Business management,In The University In Colombia,True
+1094923523,CC,pereira,Male,30,Single,0,O,Positive,Quindio,Armenia,5,0,Family,False,False,False,False,Bachelor,Student of business administration,Others,False
+1004915943,CC,pereira,Female,19,Single,0,O,Positive,Quindio,Armenia,3,0,Computrabajo,False,False,False,False,College student,Waitress,In The University In Colombia,False
+1098313074,CC,pereira,Male,23,Single,0,A,Positive,Quindio,Armenia,3,0,Computrabajo,False,False,False,True,Professional,Social worker,By Myself,False
+1089599082,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Centro De Empleo De La Alcaldia,False,False,False,False,Bachelor,Student,Centro Colombo Americano,False
+1089379386,TI,pereira,Male,17,Single,0,O,Negative,Risaralda,Pereira,2,0,Instagram,False,True,False,False,Technical,Business logistics technician,Centro Colombo Americano,False
+1089598904,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Pereira,1,0,Instagram,False,False,False,False,Technical,Estudiante,Others,False
+1004915223,CC,pereira,Male,21,Single,0,O,Positive,Quindio,Calarcá,3,1,Call,False,False,False,True,Technical,Musician,By Myself,False
+1094974395,CC,pereira,Male,23,Single,1,O,Positive,Quindio,Armenia,1,1,Mail,False,False,False,False,Technical,Tecnico en gastronomia,By Myself,False
+1039473834,CC,pereira,Female,23,Single,1,A,Positive,Risaralda,Dosquebradas,3,1,Sena,False,False,False,False,College student,Trabajo Social,Others,False
+1088353452,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,False,N/A,N/A,15435,False
+1094977863,CC,pereira,Female,22,Single,0,A,Positive,Quindio,Armenia,2,1,Computrabajo,False,False,False,False,Technical,Estudiante,Centro Colombo Americano,True
+1034292429,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Instagram,False,False,False,False,Bachelor,Student,Focus English Pereira,False
+1088358627,CE,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,4,0,Computrabajo,False,False,True,False,Estudiante universitario,Student,by Myself,False
+1088339233,CC,pereira,Male,25,Single,1,O,Positive,Risaralda,Pereira,1,1,Computrabajo,False,False,False,True,College student,student,In The University In Colombia,True
+1004738353,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Technologist,Aprendiz programador de sistemas,Centro Colombo Americano,False
+1000622631,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Dosquebradas,2,1,Other,False,False,False,False,Bachelor,Null,Others,False
+1006490621,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Professional,Ingenieria electronica,Ilex,False
+1000858101,CC,pereira,Male,19,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Computrabajo,False,False,False,False,Technical,Student,American Business School,False
+1056120274,CC,pereira,Female,18,Single,0,O,Negative,Risaralda,Pereira,2,0,Whatsapp,False,False,False,False,Bachelor,English Teacher,Centro Colombo Americano,False
+1004683040,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,2,1,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By Myself,False
+1096041180,CC,pereira,Male,22,Single,0,O,Positive,Quindio,Armenia,2,0,A Friend Working In Accedo,False,False,False,True,Tecnico,N/A,By Myself,False
+1053808777,CC,pereira,Male,31,Single,0,O,Positive,Risaralda,Pereira,4,1,Poster,False,False,False,False,Tecnologo,N/A,American English Institute,True
+1088355525,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,Centro Colombo Americano,False
+1094968658,CC,pereira,Female,23,Single,0,A,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,False,Professional,Teacher,Centro Colombo Americano,True
+1118531095,CC,pereira,Female,25,Single,0,O,Positive,Quindio,Armenia,2,2,Facebook,False,False,False,False,College student,Student,In The University In Colombia,False
+1088347126,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Tecnico,N/A,Ilex,False
+1088355366,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,True,Bachiller,N/A,Out Side  Colombia  ( Please Specify),False
+1225092700,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By Myself,False
+1094903189,CC,pereira,Male,33,Single,0,O,Positive,Quindio,Armenia,2,0,Family,False,False,False,True,College student,Bartender,In The University In Colombia,False
+1004756583,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,Others,
+6140466,PEP,pereira,Male,44,Married,1,A,Positive,Risaralda,Dosquebradas,1,3,A Friend Working In Accedo,False,False,False,False,Professional,ENGLISH TEACHER,Others,False
+1094905857,CC,pereira,Male,32,Single,0,O,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,False,Professional,Modern Languages Professional,In The University In Colombia,False
+1094968430,CC,pereira,Female,23,Single,0,O,Positive,Quindio,Armenia,3,0,Family,False,False,False,False,College student,Comunicación Social - Periodismo,By Myself,True
+1094982120,CE,pereira,Male,22,Single,0,A,Positive,Quindio,Armenia,1,0,Family,False,False,False,False,Bachelor,None,By Myself,False
+1094977369,CC,pereira,Male,22,Single,0,A,Positive,Quindio,Armenia,2,0,Other,False,False,False,False,Bachelor,Bachiller,By Myself,True
+1094974887,CC,pereira,Male,22,Single,1,O,Positive,Quindio,Armenia,1,1,Facebook,False,False,False,True,Tecnico,Sistemas,American English Institute,False
+1004739607,CC,pereira,Female,18,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,000,Centro Colombo Americano,False
+1005279591,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Technologist,systems  technologist,Others,True
+1069720785,CC,pereira,Male,34,Common law marriage,2,O,Positive,Risaralda,Pereira,3,2,Facebook,False,False,False,False,Tecnologo,graphic designer,by Myself,True
+1094972918,CC,pereira,Male,23,Single,0,B,Negative,Quindio,Armenia,3,0,Facebook,False,False,False,False,College student,Física,Others,False
+1004719447,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Family,False,False,False,False,Bachiller,None,At School In Colombia,False
+1094915798,CC,pereira,Male,31,Single,0,A,Positive,Quindio,Armenia,2,0,Facebook,False,False,True,False,Professional,Licenciado en educación física y deportes,By Myself,False
+1000566538,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,True,Bachelor,Nothing,American English Institute,True
+1088343792,CC,pereira,Female,24,Single,0,O,Positive,Quindio,Armenia,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,By myself,False
+1088022631,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Tecnologo,N/A,Ilex,True
+1097406930,TI,pereira,Female,17,Single,0,A,Positive,Risaralda,Pereira,2,0,Acciontrabajo,False,False,False,False,Estudiante universitario,Traductora,by Myself,False
+1098312540,CC,pereira,Male,24,Single,0,O,Positive,Quindio,Armenia,2,2,Facebook,False,False,False,True,Technical,Guarda de seguridad,Others,False
+1097405516,CC,pereira,Male,25,Single,0,O,Positive,Quindio,Armenia,3,0,A Friend Working In Accedo,True,False,False,False,College student,Biologist,By Myself,False
+1088336062,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,False,Professional,Abogado,Instituto De Ingles New York,False
+1004777354,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Dosquebradas,2,1,A Friend Working In Accedo,False,False,False,False,College student,industrial technologist,By Myself,False
+1006344242,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,By Myself,False
+1002938722,CC,pereira,Female,20,Single,0,A,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,True
+1005814810,CC,pereira,Male,18,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,True,Bachelor,Estudiante,American Business School,False
+1098308370,CC,pereira,Male,32,Single,0,O,Positive,Risaralda,Dosquebradas,2,2,Facebook,False,False,False,True,Tecnico,N/A,American Business School,False
+1005308584,CC,pereira,Male,22,Single,0,O,Positive,Quindio,Armenia,1,0,Facebook,False,False,False,False,Technologist,Tecnologo en Electricidad industrial,By Myself,False
+1004718894,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,Centro Colombo Americano,False
+1089379783,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Technical,estudiante,Centro Colombo Americano,False
+1089599163,TI,pereira,Male,17,Single,0,AB,Positive,Risaralda,Pereira,3,0,Family,False,False,False,False,Bachiller,Estudiante,Centro Colombo Americano,False
+1005090912,CC,pereira,Female,19,Single,0,A,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,False,Bachelor,Bachiller en ciencias naturales,Others,False
+1088824269,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Instagram,False,False,False,False,Bachelor,computer science,Others,False
+1002857327,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,True,False,False,False,College student,Student,Ilex,False
+1005278930,CC,pereira,Female,19,Single,0,O,Positive,Quindio,Armenia,2,2,Computrabajo,False,False,False,False,Bachelor,Customer service,At School In Colombia,True
+1001999844,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,True,False,Bachelor,student,By Myself,False
+1090151185,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Professional,Student,In The University In Colombia,False
+2948874,PEP,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,1,3,Facebook,False,False,False,False,Bachelor,Bachelor,Centro Colombo Americano,False
+1094965322,CC,pereira,Male,24,Single,0,O,Positive,Quindio,Armenia,3,0,Call,False,False,False,False,Technical,Audio Digital Technician,In The University In Colombia,False
+1004518742,CC,pereira,Female,22,Single,0,O,Positive,Risaralda,Pereira,4,2,A Friend Working In Accedo,False,False,False,False,Bachelor,Bachelor,Centro Colombo Americano,True
+1094973045,CC,pereira,Male,23,Single,0,O,Negative,Risaralda,Dosquebradas,2,0,Family,False,False,False,True,Technologist,Desarrollador Gráfico,By Myself,False
+1004755327,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,3,0,Family,False,False,False,False,College student,Licenciatura en lenguas extranjeras,Others,False
+1098822739,CC,pereira,Male,22,Single,0,A,Negative,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachelor,None,In The University In Colombia,False
+1193078701,CC,pereira,Female,19,Single,0,A,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,By Myself,
+1125782136,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachelor,Student,Others,False
+1092454087,CC,pereira,Male,18,Single,0,O,Positive,Quindio,Armenia,3,2,Facebook,False,False,False,False,Tecnico,Tecnico En producción grafica,by Myself,False
+1088825257,TI,pereira,Female,17,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Estudiante,By Myself,False
+1020758808,CC,pereira,Male,30,Single,0,O,Positive,Quindio,Armenia,5,0,Centro De Empleo De La Alcaldia,False,False,False,True,Professional,Coffe Producer,At School In Colombia,False
+1088355458,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Professional,international negotiator,Others,False
+1088825784,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,Bachelor,Psychology,At School In Colombia,False
+1088331561,CC,pereira,Female,26,Single,0,A,Negative,Risaralda,Pereira,4,1,A Friend Working In Accedo,False,False,False,False,Tecnico,Graphic Designer,At School In Colombia,False
+1087493679,CC,pereira,Female,24,Single,0,A,Positive,Risaralda,Dosquebradas,4,0,Sena,False,False,False,False,Profesional,N/A,By Myself,False
+1004778922,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Instagram,False,False,False,False,Bachiller,None,Centro Colombo Americano,False
+1112785987,CC,pereira,Female,26,Single,0,A,Positive,Risaralda,Santa Rosa De Cabal,3,0,Instagram,False,False,False,False,Estudiante universitario,N/A,Centro Colombo Americano,False
+1109114517,TI,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Bal,At School In Colombia,False
+1088355216,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Professional,Social Communicator and Journalist,At School In Colombia,False
+5867685,PPT,pereira,Female,31,Single,1,O,Positive,Risaralda,Pereira,1,1,Facebook,False,False,False,,Bachiller,N/A,By Myself,
+1126240267,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,Others,False
+1088339337,CC,pereira,Female,25,Single,0,O,Positive,Risaralda,Pereira,1,2,A Friend Working In Accedo,False,False,False,False,Tecnico,N/A,By Myself,True
+1088319520,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Technologist,International Bussines Technologist,Centro Colombo Americano,False
+1152713440,CC,pereira,Female,23,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,Family,False,False,False,False,College student,Student,At School In Colombia,False
+1088348379,CC,pereira,Male,24,Single,0,O,Negative,Risaralda,Dosquebradas,3,0,Instagram,False,False,False,False,Technologist,Tecnólogo Mecánico,In The University In Colombia,False
+1193230417,CC,pereira,Female,20,Single,0,A,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,False,Bachiller,Estudiante,At School In Colombia,False
+1088015182,CC,pereira,Male,28,Single,0,A,Negative,Risaralda,Dosquebradas,3,1,Call,False,False,False,False,Estudiante universitario,N/A,By Myself,True
+1010088150,CC,pereira,Female,21,Single,0,O,Positive,Quindio,Armenia,2,0,Instagram,False,False,False,False,Professional,business administrator,Others,False
+1192788217,CC,pereira,Female,21,Single,0,A,Positive,Risaralda,Pereira,2,1,Family,False,False,False,False,Bachiller,N/A,By Myself,False
+1225089877,CC,pereira,Male,24,Single,0,O,Negative,Risaralda,Pereira,0,0,Call,False,False,False,False,Bachiller,N/A,Out Side  Colombia  ( Please Specify),False
+1193529957,CC,pereira,Female,20,Single,0,A,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Bachelor,NA,Others,True
+1006130440,CC,pereira,Male,21,Common law marriage,1,O,Positive,Quindio,Armenia,2,2,Facebook,False,False,False,False,Bachelor,Independent,By Myself,False
+94064580,CC,pereira,Male,38,Single,0,A,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,False,Professional,Diseñador Gráfico,In The University In Colombia,True
+1088019799,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Apply online,False,False,False,False,Tecnico,N/A,"I learned English in school and studying by my own, I am also studying English at the moment.",False
+1092850605,TI,pereira,Male,17,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachelor,None,American English Institute,False
+1088349143,CC,pereira,Male,24,Single,0,B,Positive,Risaralda,Pereira,5,0,Other,False,False,False,True,Estudiante universitario,N/A,At School In Colombia,False
+6066286,PPT,pereira,Female,23,Single,0,O,Positive,Risaralda,Dosquebradas,1,0,Computrabajo,False,False,False,False,Technical,Técnico Medio en Informática,Others,False
+3474817,PPT,pereira,Female,24,Single,0,A,Positive,Risaralda,Pereira,3,3,A Friend Working In Accedo,False,False,False,False,Bachiller,Independent,by Myself,False
+1004752719,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,2,1,Other,False,False,False,True,Bachiller,N/A,Others: ,
+1023302050,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,4,0,Apply On Line / Accedo Page,False,False,False,False,College student,N.A,By Myself,False
+1140426583,CC,pereira,Male,50,Common law marriage,0,O,Positive,Risaralda,Pereira,3,2,Computrabajo,False,False,False,False,Professional,Lawyer,Others,False
+1088340391,CC,pereira,Male,25,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,At School In Colombia,False
+1005089549,CC,pereira,Female,19,Single,0,O,Positive,Quindio,Armenia,1,0,Computrabajo,False,False,False,False,Technical,Operaria de confeccion,Others,False
+1014237579,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Professional,Psicólogo,By Myself,True
+1006324061,CC,pereira,Male,21,Single,0,AB,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,American Idiomas,False
+1015469009,CC,pereira,Female,24,Single,0,B,Positive,Risaralda,Pereira,3,0,Family,False,False,False,False,Technologist,UNEMPLOYED,Centro Colombo Americano,True
+1097408761,CC,pereira,Male,22,Single,0,O,Positive,Quindio,Armenia,3,1,A Friend Working In Accedo,False,False,False,True,College student,Student,In The University In Colombia,False
+1107836814,TI,pereira,Female,17,Single,0,B,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Estudiante,By Myself,False
+1004775778,CC,pereira,Female,20,Single,0,A,Positive,Risaralda,Pereira,2,0,Instagram,False,False,False,False,Technologist,tecnóloga en gestión administrativa,Centro Colombo Americano,False
+1004738773,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,True,False,Bachiller,N/A,Centro Colombo Americano,False
+1088349710,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,6,0,A Friend Working In Accedo,False,False,False,False,Professional,Ingeniería Industrial,Others,False
+4520785,CC,pereira,Male,37,Single,0,O,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,Green Pine School,False
+1007318210,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Profesional,Psychologist,by Myself,False
+1127384961,CC,pereira,Male,38,Single,0,A,Positive,Risaralda,Pereira,0,0,Computrabajo,False,False,False,False,Bachiller,N/A,English App On Line ( Please Specify),False
+1004520837,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Instagram,False,False,False,False,Bachelor,Estudiante,Others,False
+80032710,CC,pereira,Male,40,Common law marriage,0,B,Positive,Quindio,Armenia,4,0,Facebook,False,False,False,False,Technologist,System technologist,In The University In Colombia,True
+1070807105,CC,pereira,Male,19,Single,0,B,Positive,Risaralda,Dosquebradas,2,0,Other,False,False,False,False,Bachelor,Bachelor,Others,False
+1088348317,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Tecnico,Técnico en operación turística local,by Myself,False
+1088824892,TI,pereira,Male,17,Single,0,A,Positive,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,student,Centro Colombo Americano,False
+1060266333,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Bachelor,By Myself,False
+1088346172,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,2,5,Computrabajo,False,False,False,False,Tecnico,N/A,Others: ,False
+1112759149,CC,pereira,Male,35,Common law marriage,0,O,Positive,Valle Del Cauca,Cartago,2,1,Instagram,False,False,False,True,Professional,Dlcente,In The University In Colombia,False
+9738240,CC,pereira,Male,38,Common law marriage,1,A,Negative,Quindio,Armenia,2,2,Computrabajo,False,False,False,False,Profesional,Licenciado,In The University In Colombia,True
+1193039150,CC,pereira,Male,19,Single,0,A,Positive,Quindio,Armenia,5,0,Computrabajo,False,False,False,False,Bachelor,Unemployed,Centro Colombo Americano,False
+1010032235,CC,pereira,Male,21,Single,0,A,Positive,Quindio,Armenia,4,0,Facebook,False,False,False,False,Bachelor,Independent,By Myself,False
+1004702277,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,3,2,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,
+1004670655,CC,pereira,Male,18,Single,0,O,Positive,Quindio,Armenia,1,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Unemployed,Others,False
+1002242096,CC,pereira,Male,25,Single,0,O,Positive,Quindio,Armenia,2,1,A Friend Working In Accedo,False,False,False,True,Tecnologo,N/A,Centro Colombo Americano,False
+1087559506,CC,pereira,Male,25,Single,0,A,Positive,Risaralda,Pereira,0,0,Infratech,False,False,False,False,Tecnico,N/A,Infratech,False
+1088344443,CC,pereira,Male,24,Single,0,O,Positive,Risaralda,Pereira,4,0,Other,False,False,False,True,Professional,Futuro Zootecnista,By Myself,False
+1088350674,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Profesional,Químico Industrial,By Myself,False
+1087999953,CC,pereira,Male,32,Married,1,O,Positive,Risaralda,Dosquebradas,3,1,Instagram,False,False,False,True,Technologist,Mecatrónico,By Myself,False
+1002802619,CC,pereira,Male,22,Single,0,A,Negative,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Professional,Industrial Engineering,By Myself,False
+1004520714,CC,pereira,Female,18,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,Family,False,False,False,False,Technical,Nail tech,By Myself,False
+1019106083,CC,pereira,Male,27,Common law marriage,1,A,Positive,Risaralda,Dosquebradas,2,1,Instagram,False,False,False,False,Tecnico,N/A,Others,False
+1088359241,CC,pereira,Male,24,Single,0,O,Negative,Risaralda,Pereira,3,0,Instagram,False,False,False,False,Bachiller,N/A,By Myself,False
+1004011048,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,College student,Derecho,In The University In Colombia,False
+1004965101,CC,pereira,Female,20,Single,0,O,Negative,Risaralda,Pereira,1,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,At School In Colombia,False
+1045606127,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Pereira,4,0,Instagram,False,False,False,False,Technical,health administrative support technician,Centro Colombo Americano,False
+1004775936,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,4,0,Computrabajo,False,False,False,True,Bachelor,Business women,At School In Colombia,False
+1088037778,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Facebook,False,False,False,False,Bachelor,Tecnologist in análisis and development of information systems,By Myself,False
+1088034956,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1090339407,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,1,1,Facebook,False,False,False,False,Estudiante universitario,N/A,Others,False
+1094892641,CC,pereira,Male,34,Married,2,A,Positive,Quindio,Armenia,2,3,Computrabajo,False,False,True,True,Technologist,Pharmacys,By Myself,True
+1089599575,TI,pereira,Male,17,Single,0,O,Positive,Risaralda,Dosquebradas,4,0,Instagram,False,False,False,False,Bachiller,Student,At School In Colombia,False
+1088357475,CC,pereira,Female,22,Single,0,A,Positive,Risaralda,Pereira,4,0,Banner,False,False,False,False,Estudiante universitario,N/A,American English Institute,False
+1088351746,CC,pereira,Female,23,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Professional,physical engineer,Centro Colombo Americano,False
+1088356441,CC,pereira,Female,22,Single,0,O,Negative,Risaralda,Pereira,3,0,Family,False,False,True,,Estudiante universitario,N/A,By Myself,
+1094964971,CC,pereira,Male,24,Married,0,A,Positive,Quindio,Armenia,1,1,Facebook,False,False,False,True,Technical,comercio sistematizado,By Myself,True
+1000273804,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,6,0,Family,False,False,True,False,Bachelor,Student,At School In Colombia,False
+1089379507,TI,pereira,Male,17,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,College student,Graduate,American Idiomas,False
+1091202414,TI,pereira,Male,17,Single,0,O,Positive,Quindio,Armenia,1,0,Facebook,False,False,False,False,Technical,Student,By Myself,False
+1094965307,CC,pereira,Male,24,Single,0,O,Positive,Quindio,Armenia,4,0,A Friend Working In Accedo,False,False,False,False,Professional,electronic engineer,At School In Colombia,False
+1094976366,CC,pereira,Male,22,Single,0,O,Positive,Quindio,Armenia,3,0,Facebook,False,False,False,False,Bachelor,"Cellphone's technician, student",Others,False
+1088307522,CC,pereira,Male,29,Single,0,O,Positive,Risaralda,Pereira,3,2,Other,False,False,False,False,Technical,Técnico en operaciones comercial,Centro Colombo Americano,False
+1098312265,CC,pereira,Female,25,Single,0,A,Positive,Quindio,Armenia,1,0,Google,False,False,False,False,Professional,comunicación social-periodismo,In The University In Colombia,False
+1114148115,CC,pereira,Male,18,Single,0,B,Positive,Risaralda,Santa Rosa De Cabal,2,1,Google,False,False,False,False,Bachelor,None,Others,False
+5599614,PPT,pereira,Male,19,Single,0,A,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Bachelor,None,By Myself,False
+1010006370,CC,pereira,Male,22,Single,0,O,Positive,Quindio,Armenia,2,2,Other,False,False,False,True,Bachelor,Bachelor,At School In Colombia,False
+1088824438,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Call,False,False,False,False,Bachelor,no,By Myself,False
+1004778429,CC,pereira,Female,18,Single,0,B,Positive,Risaralda,Pereira,6,0,Family,False,False,False,False,Bachelor,no,At School In Colombia,False
+1004996130,TI,pereira,Male,19,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,A Friend Working In Accedo,False,False,True,False,Bachiller,N/A,Others,False
+1130613818,CC,pereira,Male,35,Single,0,O,Positive,Quindio,Armenia,3,0,A Friend Working In Accedo,True,False,False,False,Professional,Publicist,In The University In Colombia,False
+1094929830,CC,pereira,Female,29,Common law marriage,2,A,Positive,Quindio,Armenia,2,2,Facebook,False,False,False,False,College student,Graphic designer,Others,True
+1089096385,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,2,3,A Friend Working In Accedo,False,False,False,,Bachiller,N/A,Instituto De Ingles New York,False
+1112771269,CC,pereira,Male,31,Common law marriage,1,A,Negative,Valle Del Cauca,Cartago,2,0,Computrabajo,False,False,False,True,Tecnologo,N/A,by myself,True
+1088315307,CC,pereira,Male,28,Single,0,O,Positive,Quindio,Armenia,2,0,A Friend Working In Accedo,False,False,False,True,Profesional,Degree on Spanish and literature,In The University In Colombia,False
+1010133405,CC,pereira,Male,23,Single,0,A,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Bachiller,N/A,Focus English Pereira,False
+1004734323,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachiller,N/A,By Myself,False
+1089378410,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,1,1,A Friend Working In Accedo,False,False,True,True,Bachelor,Undergraduated student in Bilingualism,American English Institute,False
+1087780088,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Dosquebradas,3,2,Whatsapp,False,False,False,False,Bachelor,Estudiante,At School In Colombia,True
+1088272199,CC,pereira,Male,32,Single,0,O,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,Centro Colombo Americano,True
+1006592478,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Bachelor,Bachiller,Ilex,False
+1088027933,CC,pereira,Female,25,Single,0,O,Negative,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,True,Professional,Industrial designer,Berlitz,False
+1118237156,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Pereira,3,3,A Friend Working In Accedo,False,False,True,False,Professional,BACHELOR DEGREE IN SPANISH AND LITERATURE,American English Institute,False
+1006593395,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Bachelor,Costume Service Call Center,By Myself,True
+1088358438,CC,pereira,Male,22,Single,0,A,Negative,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,False,False,College student,Estudiante,By Myself,False
+1116240846,CC,pereira,Male,34,Single,0,O,Negative,Risaralda,Pereira,5,1,Family,False,False,False,True,Technical,tecnico logistico empresarial,By Myself,True
+1017269746,CC,pereira,Male,23,Single,0,O,Positive,Risaralda,Pereira,3,0,Acciontrabajo,False,False,False,False,Technical,Student,Others,False
+1088283103,CC,pereira,Female,31,Single,1,O,Positive,Risaralda,Pereira,3,0,Computrabajo,False,False,False,False,Estudiante universitario,N/A,University,False
+1001131523,CC,pereira,Male,24,Single,0,B,Positive,Quindio,Armenia,4,0,Computrabajo,False,False,False,True,Technical,tecnico de mantenimiento aeronautico,In The University In Colombia,False
+1002579894,CC,pereira,Male,20,Single,0,B,Positive,Quindio,Armenia,2,0,Computrabajo,False,False,False,False,Bachiller,N/A,by Myself,False
+1088035877,CC,pereira,Female,23,Single,0,O,Positive,Quindio,Armenia,1,0,Computrabajo,False,False,False,False,Technologist,Tecnología en Atencion pre-hospitalaria.,By Myself,True
+1094973440,CC,pereira,Female,23,Single,0,B,Positive,Quindio,Armenia,2,0,Facebook,False,False,False,,Tecnologo,N/A,American English Institute,
+1087994639,CC,pereira,Male,33,Single,0,O,Positive,Risaralda,Dosquebradas,2,1,Sena,False,False,False,False,Estudiante universitario,N/A,University,False
+1094920978,CC,pereira,Male,30,Single,0,A,Positive,Quindio,Armenia,3,0,Computrabajo,False,False,False,False,College student,economist,Others,False
+1022349308,CC,pereira,Female,33,Single,0,O,Positive,Quindio,Armenia,3,1,Computrabajo,False,False,False,False,Technical,Técnico profesional en administración en servicios de salud,At School In Colombia,True
+1005092771,CC,pereira,Male,18,Single,0,O,Positive,Quindio,Armenia,3,0,Computrabajo,False,False,False,False,Technical,.,American English Institute,False
+1007384787,CC,pereira,Male,21,Single,0,O,Positive,Quindio,Armenia,2,1,Computrabajo,False,False,True,False,College student,Student,In The University In Colombia,False
+1004701076,CC,pereira,Female,20,Single,0,AB,Positive,Risaralda,Pereira,4,0,Instagram,False,False,True,False,College student,Estudiante,At School In Colombia,False
+1094966704,CC,pereira,Male,24,Single,0,O,Positive,Quindio,Armenia,2,0,Computrabajo,False,False,False,False,Technologist,graphic designer,Others,False
+1152208037,CC,pereira,Male,27,Single,0,A,Positive,Quindio,Armenia,4,0,Computrabajo,False,False,False,False,Professional,lawyer,Centro Colombo Americano,False
+1004520678,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Pereira,6,0,A Friend Working In Accedo,False,False,False,False,College student,Student,Centro Colombo Americano,False
+1001288597,CC,pereira,Female,20,Single Mother,0,A,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,False,Bachiller,N/A,Others: CEIM,
+1126602156,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Other,False,False,False,False,Bachelor,Ninguna,By Myself,False
+1088355471,CC,pereira,Male,22,Single,0,AB,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,True,False,False,True,Professional,INGENIERO EN MECATRÓNICA,Others,False
+1004671624,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Computrabajo,False,False,False,True,Tecnico,Estudent,Ilex,False
+1001818252,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,True,False,False,False,Bachiller,N/A,At School In Colombia,False
+1088311880,CC,pereira,Female,28,Single,0,O,Positive,Risaralda,Pereira,2,2,Other,False,False,False,True,Tecnico,N/A,By Myself,False
+1005716325,CC,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,Technical,tecnico laboral en auxiliar en enfermeria,Centro Colombo Americano,False
+1089599292,TI,pereira,Male,17,Single,0,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Bachelor,any,By Myself,False
+1007674802,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Pereira,2,0,Computrabajo,False,False,False,False,Profesional,INDEPENDENT,Others,True
+1025522396,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachiller,Estudiante,Centro Colombo Americano,False
+1089097074,TI,pereira,Female,17,Single,0,O,Positive,Risaralda,Pereira,4,0,Other,False,False,False,False,Bachelor,Student,Others,False
+80875397,CC,pereira,Male,36,Single,0,A,Positive,Risaralda,Pereira,2,1,A Friend Working In Accedo,False,False,False,False,Tecnologo,N/A,Others,True
+1093229097,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Computrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,False
+1006858630,TI,pereira,Female,20,Single,0,O,Positive,Risaralda,Pereira,3,0,Family,False,False,False,,Bachiller,N/A,By Myself,
+1089930958,TI,pereira,Female,17,Single,0,A,Positive,Risaralda,Pereira,4,0,Family,False,False,False,True,Bachelor,Just graduated from high school,At School In Colombia,False
+1004752758,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,A Friend Working In Accedo,False,False,False,False,Tecnico,Student,By Myself,False
+1094930532,CC,pereira,Male,29,Single,0,A,Positive,Quindio,Armenia,2,0,Facebook,False,False,False,,Profesional,N/A,Others: ,
+1004702370,CC,pereira,Male,21,Single,0,A,Negative,Risaralda,Pereira,3,1,Whatsapp,False,False,False,,Tecnico,N/A,Centro Colombo Americano,
+1004627088,CC,pereira,Female,30,Married,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Technical,Nursing assistant,Centro Colombo Americano,False
+1053811439,CC,pereira,Male,31,Married,1,A,Negative,Risaralda,Santa Rosa De Cabal,3,2,Centro De Empleo De La Alcaldia,False,False,False,True,Bachelor,Artist,By Myself,False
+911520,CE,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,5,0,Instagram,False,False,False,False,Bachelor,none,Others,False
+1193581214,CC,pereira,Female,21,Single,0,O,Positive,Risaralda,Pereira,4,0,Instagram,False,False,False,False,Bachelor,Student,At School In Colombia,False
+1087493291,CC,pereira,Male,25,Single,0,A,Positive,Risaralda,Pereira,0,0,Computrabajo,False,False,False,False,Bachiller,N/A,Centro Colombo Americano,True
+1089930984,TI,pereira,Male,17,Single,0,A,Positive,Risaralda,Pereira,5,0,Other,False,False,False,True,Bachelor,estudiante,Centro Colombo Americano,False
+5032130,PPT,pereira,Male,27,Single,0,A,Negative,Risaralda,Pereira,4,0,Other,False,False,False,False,Bachelor,None,By Myself,False
+1088245510,CC,pereira,Male,35,Single,0,O,Positive,Risaralda,Pereira,4,1,A Friend Working In Accedo,False,False,False,True,Estudiante universitario,N/A,Others,True
+1091884499,TI,pereira,Male,17,Single,0,B,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Bachelor,N/A,By Myself,False
+6533023,PPT,pereira,Male,25,Single,0,AB,Positive,Risaralda,Santa Rosa De Cabal,2,0,Apply On Line/Accedo Page,False,False,False,False,College student,Diseñador Grafico,Others,False
+1088825096,TI,pereira,Male,17,Single,0,A,Negative,Risaralda,Pereira,2,0,Expocamello,False,False,False,False,Bachelor,None,At School In Colombia,False
+1036655771,CC,pereira,Male,34,Single,0,A,Positive,Risaralda,Dosquebradas,3,0,Centro De Empleo De La Alcaldia,False,False,False,True,Bachiller,N/A,Out Side  Colombia  ( Please Specify),False
+1004518478,CC,pereira,Male,21,Single,0,A,Positive,Risaralda,Pereira,1,1,Banner,False,False,False,False,Estudiante universitario,N/A,Ilex,False
+1116275252,CC,pereira,Male,25,Single,0,A,Positive,Valle Del Cauca,Cartago,3,0,Facebook,False,False,False,False,Technologist,Tecnologo en negocios internacionales y comercio exterior,By Myself,False
+1112793158,CC,pereira,Male,23,Common law marriage,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Technical,Estudiante,In The University In Colombia,False
+42158359,CC,pereira,Female,37,Married,2,A,Negative,Risaralda,Pereira,2,0,A Friend Working In Accedo,False,False,False,False,Technical,Diseñadora de modas,By Myself,False
+1112780505,CC,pereira,Male,28,Single,1,O,Positive,Risaralda,Pereira,3,2,Computrabajo,False,False,False,True,Tecnologo,N/A,By Myself,False
+1193239221,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Dosquebradas,2,1,Family,False,False,False,False,Technologist,designer,At School In Colombia,False
+1089097390,TI,pereira,Female,17,Single,0,A,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,Technical,none,By Myself,False
+1005872875,CC,pereira,Female,21,Single,0,O,Positive,Quindio,Armenia,1,0,Facebook,False,False,False,False,Technologist,estudiante,Centro Colombo Americano,False
+1088022058,CC,pereira,Male,27,Single,0,O,Positive,Risaralda,Pereira,2,0,Facebook,False,False,False,False,Estudiante universitario,Paramedico,Ilex,False
+1094954459,CC,pereira,Male,26,Common law marriage,0,O,Positive,Quindio,Armenia,2,0,Family,True,False,False,False,Bachelor,Biologist,In The University In Colombia,True
+1094942772,CC,pereira,Male,27,Single,0,B,Positive,Quindio,Armenia,3,1,Other,False,False,False,False,Professional,Electronic engineer,By Myself,False
+1126906192,CC,pereira,Male,29,Single,0,O,Positive,Quindio,Armenia,3,3,Computrabajo,False,False,False,False,Bachelor,operario,By Myself,False
+1004719454,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Pereira,3,0,Instagram,False,False,False,False,College student,Student,American Idiomas,False
+1094907163,CC,pereira,Female,32,Single Mother,2,B,Positive,Quindio,Armenia,3,2,Computrabajo,False,False,False,False,Technologist,tecnologo en admon hotelera,By Myself,True
+1007727993,CC,pereira,Male,21,Single,0,O,Positive,Quindio,Armenia,2,3,Computrabajo,False,False,False,False,Bachelor,Unemployed,American English Institute,False
+1006295118,CC,pereira,Female,18,Single,0,B,Positive,Valle Del Cauca,Cartago,3,0,Family,True,False,False,False,Bachelor,Bachiller tecnico,By Myself,False
+1004684587,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Bachelor,None,By Myself,False
+1151198584,CC,pereira,Male,25,Single,0,AB,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,True,Professional,administrador de negocios internacionales,By Myself,False
+1004446666,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,3,2,Computrabajo,False,False,False,False,Bachelor,Non,Others,False
+1125678196,CC,pereira,Female,19,Single,0,O,Negative,Risaralda,Pereira,3,1,Other,False,False,False,False,College student,Student,Others,False
+1088824160,CC,pereira,Male,18,Single,0,A,Negative,Risaralda,Dosquebradas,3,0,Computrabajo,False,False,False,False,Technical,Estudiante,Centro Colombo Americano,False
+1003619498,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Computrabajo,False,True,False,False,Bachelor,Asesor Call Center,Others,False
+2185566,PPT,pereira,Male,22,Single,0,O,Negative,Risaralda,Dosquebradas,3,0,Facebook,False,False,False,False,Bachelor,0,Others,False
+1004735408,CC,pereira,Male,20,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Whatsapp,False,False,False,False,Technical,Estudiante de la UTP,Ilex,False
+1088033961,CC,pereira,Female,24,Single,0,O,Positive,Risaralda,Pereira,4,0,A Friend Working In Accedo,False,False,False,False,Professional,Lawyer,Centro Colombo Americano,False
+1143402108,CC,pereira,Male,24,Single,0,A,Positive,Quindio,Armenia,3,1,A Friend Working In Accedo,False,False,False,False,College student,Student,By Myself,False
+1004755940,CC,pereira,Female,19,Single,0,O,Positive,Risaralda,Dosquebradas,3,1,A Friend Working In Accedo,False,False,False,False,Technical,Student,Centro Colombo Americano,False
+1025882730,TI,pereira,Male,17,Single,0,A,Positive,Quindio,Armenia,4,0,Family,False,False,False,False,Bachelor,student,At School In Colombia,False
+1089379839,TI,pereira,Female,17,Single,0,A,Positive,Risaralda,Pereira,3,0,Family,False,False,False,False,Bachelor,ninguna,By Myself,False
+59310070,CC,pereira,Female,38,Married,1,B,Positive,Risaralda,Pereira,2,1,Other,False,False,False,False,Professional,Degree in computer science,By Myself,False
+1005090122,CC,pereira,Male,19,Single,0,O,Positive,Quindio,Armenia,2,0,Computrabajo,False,False,False,False,Bachiller,N/A,American Idiomas,False
+1004520317,CC,pereira,Male,19,Single,0,O,Positive,Risaralda,Pereira,2,0,Family,False,False,False,False,Bachelor,Student,Others,False
+1089096313,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Other,False,False,False,False,Bachelor,Unemployed,Others,False
+1001276389,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,False,Technical,Estudiante,American English Institute,False
+1116733808,CC,pereira,Female,23,Common law marriage,0,O,Positive,Risaralda,Pereira,1,0,Facebook,False,False,False,False,Bachelor,Estudiante,American Idiomas,False
+1088027468,CC,pereira,Male,31,Single,0,O,Positive,Risaralda,Dosquebradas,1,0,Instagram,False,False,False,False,College student,None,By Myself,False
+1113042944,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,1,0,Instagram,False,False,False,False,Bachelor,Student,By Myself,False
+2000009079,CC,pereira,Male,34,Single,0,O,Positive,Risaralda,Pereira,3,1,Other,False,False,False,False,Technical,Furniture ware house manager,Others,False
+1089096304,CC,pereira,Male,18,Single,0,O,Negative,Risaralda,Pereira,5,0,Computrabajo,False,False,False,False,Bachelor,none,By Myself,False
+1088032154,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,Call,False,False,True,False,Estudiante universitario,Engineer in Mechatronic,Ilex,False
+1088293297,CC,pereira,Male,30,Single,0,O,Positive,Risaralda,Dosquebradas,0,0,Friend,False,False,False,False,Bachiller,N/A,ilex,False
+1004754894,CC,pereira,Male,19,Single,0,O,Negative,Risaralda,Pereira,2,1,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,By Myself,False
+1115080745,CC,pereira,Male,28,Single,0,AB,Positive,Valle Del Cauca,Guacarí,2,0,A Friend Working In Accedo,False,False,False,False,Estudiante universitario,N/A,UTP Ilex courses ,False
+1010030091,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,A Friend Working In Accedo,False,False,False,,Estudiante universitario,N/A,Centro Colombo Americano,
+1016084054,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Dosquebradas,3,1,Other,False,False,False,False,Technical,chef,By Myself,False
+1088313740,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Pereira,4,0,El Empleo,False,False,False,False,Professional,Lawyer,Centro Colombo Americano,False
+1110466997,CC,pereira,Male,34,Single,0,O,Positive,Risaralda,Pelaya,3,1,Facebook,False,False,False,True,Estudiante universitario,Tecnologo en Mantenimiento Aeronautico y Consultor SAP,Others,False
+1085716072,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Santa Rosa De Cabal,3,0,Centro De Empleo De La Alcaldia,False,False,False,False,College student,student,Others,False
+1088248210,TI,pereira,Male,17,Single,0,A,Positive,Risaralda,Dosquebradas,4,0,Family,False,False,False,True,Bachelor,niguna,Centro Colombo Americano,False
+1004671634,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Dosquebradas,2,3,A Friend Working In Accedo,False,False,False,False,Bachelor,None,Others,False
+1225093747,CC,pereira,Male,22,Single,0,A,Positive,Risaralda,Pereira,3,0,Facebook,False,False,False,True,Tecnico,N/A,Ilex,False
+1088016826,CC,pereira,Male,28,Single,0,O,Positive,Risaralda,Dosquebradas,0,0,Friend,False,False,False,False,Tecnico,N/A,"sena, school, chatting with people from other countries in internet",True
+1126595746,CC,pereira,Female,18,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Computrabajo,False,False,False,False,Bachelor,Sin oficio,American Business School,False
+1088331397,CC,pereira,Male,26,Single,0,O,Positive,Risaralda,Pereira,0,0,Others,False,False,False,False,Bachiller,N/A,Internet,False
+1088033785,CC,pereira,Male,24,Single,0,A,Positive,Risaralda,Pereira,0,0,Friend,False,False,False,True,Tecnico,N/A,by myself,False
+1007264495,CC,pereira,Male,19,Single,0,A,Negative,Risaralda,Dosquebradas,4,9,A Friend Working In Accedo,False,False,False,False,Bachelor,Student,Ilex,False
+1089598188,CC,pereira,Male,18,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,Family,True,False,False,False,Technologist,Estudiante,By Myself,False
+1004565587,CC,pereira,Male,21,Single,0,O,Positive,Risaralda,Pereira,2,0,Instagram,False,False,False,False,College student,Student,By Myself,False
+1088300352,CC,pereira,Female,29,Single,0,O,Positive,Risaralda,Dosquebradas,3,0,Instagram,False,False,False,False,Professional,Electronics engineer,Centro Colombo Americano,False
+1192895659,CC,pereira,Female,21,Single,0,A,Positive,Risaralda,Dosquebradas,4,1,Facebook,False,False,False,False,Bachelor,none,Centro Colombo Americano,False
+1004718366,CC,pereira,Female,19,Single,0,A,Negative,Risaralda,Pereira,5,0,Google,False,False,False,False,Bachelor,Asesora,By Myself,False
+1088353933,CC,pereira,Female,23,Single,0,B,Positive,Risaralda,Pereira,1,0,Family,False,False,False,,Tecnico,N/A,American Idiomas,
+1088038944,CC,pereira,Male,22,Single,0,O,Positive,Risaralda,Dosquebradas,2,0,A Friend Working In Accedo,False,False,False,False,Profesional,Psychologist,by Myself,False
+1004778204,CC,pereira,Male,19,Single,0,A,Positive,Risaralda,Dosquebradas,2,0,Instagram,False,False,False,False,Bachelor,STUDENT,Others,False
+1004717797,CC,pereira,Male,19,Single,0,A,Positive,Risaralda,Pereira,4,0,Instagram,False,False,False,False,Bachiller,estudiante,At School In Colombia,False
+1053839473,CC,pereira,Female,27,Single,2,O,Positive,Risaralda,Pereira,3,0,A Friend Working In Accedo,False,False,False,False,College student,Studying a degree in Bilingüism,At School In Colombia,False
+1000271150,TI,pereira,Male,19,Single,0,A,Positive,Risaralda,Pereira,5,0,A Friend Working In Accedo,False,False,True,False,Estudiante universitario,N/A,By Myself,False

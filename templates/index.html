@@ -1,8 +1,9 @@
 {% extends 'base.html' %}
 
 {% block head%}
-<h1>Clasificador de Empleados de Riesgo</h1>
-<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<h1>Employee Risk Clasifier</h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 
 
 {% endblock %}
@@ -201,18 +202,13 @@
             </select>
             <br>
 
-            <label for="has_left">Has Left</label>
-            <select name="has_left" id = "has_left">
+            <label for="profession">Profession</label>
+            <select name="profession" id = "profession">
                 <option value=""></option>
                 <option value="1"> Yes</option>
                 <option value="0">No </option>
             </select>
             <br>
-
-            <label for="number_of_returns">Number of Returns</label>
-            <input type="number" name="number_of_returns" id = "number_of_returns">
-            <br>
-
 
             <div class="btn-block">
             <button type="submit",  value="predict"> Predict </button>
